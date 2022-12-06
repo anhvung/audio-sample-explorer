@@ -1,0 +1,1001 @@
+,x,y,label_num,label_name,path
+0,-4.492753826897363,5.829784908587525,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (27).wav
+1,5.49166404614018,46.66998606007271,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (71).wav
+2,12.043383402115486,34.31473002139183,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\LT Snare (4).wav
+3,-23.170590785429475,-40.242091475380896,4,Extras,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Extras\Trumpets Brass Horns.wav
+4,-5.355705708878979,1.4943448235005814,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Snare (11).wav
+5,29.930873411445567,-42.18014532658799,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\808 (1).wav
+6,-33.145615100507506,-8.597770830890976,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\KENNY BEATS CLAP 15.wav
+7,-38.200287566593566,-17.104668740246876,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Default.wav
+8,-59.66562136658538,16.074586877199035,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Glockley Double Up Hi Hat.wav
+9,-13.492585397354272,-26.35173636505202,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\[ACD] - 9PieceScream.wav
+10,-47.4999842017313,40.72958823319822,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\Cym (OG-Trap).wav
+11,35.069300408960835,-47.544835668333825,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\LATE NIGHT 808.wav
+12,33.767804014487105,-43.13070231383897,6,Kicks,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Kicks\CTS_Kick11.WAV
+13,14.087283133544195,2.2500601171901766,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Carti Perc.wav
+14,71.65497283779074,-13.66307403863043,6,Kicks,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Kicks\Rack Kick1.wav
+15,-20.84865224194566,-31.113475851817533,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (68).wav
+16,-28.26250461933499,-17.81867362006024,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 35.wav
+17,-33.20551879783303,-25.33147125979558,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\BWB UPGRADE3 FX (4).wav
+18,-48.57635042785355,15.818625856663482,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\[ACD] - Trap Bell.wav
+19,-39.52445428472217,4.872228000456357,5,FX,./data\London on da Track (Shows the Screen) Drumkit\FX\Riser 3 (Drumma Boy).wav
+20,8.40035058854393,-62.90663499303606,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_loop_04.wav
+21,44.85823888230672,30.587293656639034,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\DT - Gatsby (Clap).wav
+22,-39.72778761644109,5.716036357444478,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Lex Luger FX 1.wav
+23,-38.625120682109255,6.514504184241116,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\NM - Signature FX.wav
+24,50.41932191411157,32.38754619701414,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\ShortClap.wav
+25,-33.509506766357354,0.6890893015748651,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\Chants (1).wav
+26,8.44931897848908,42.39380658777363,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Glockley Snare (3).wav
+27,20.964044773221307,42.75947350005463,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\It's Lit!_2.wav
+28,-24.01684790770943,-35.19766676497657,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (28).wav
+29,11.784720035601213,48.20389908079467,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\Snare [ 88 ].wav
+30,-28.623998927920752,-21.2767267810281,5,FX,./data\Chief Keef (Shows the Screen) Drumkit\FX\Trans. [GloGang].wav
+31,18.029418549701315,-78.89277417745375,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\Question808_YC - Loop.wav
+32,-34.10029896608697,0.4443520148416748,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\NM - ThatPhone FX.wav
+33,-79.0488420314936,14.686185190671555,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - Wyd HH.wav
+34,69.61916036695645,-13.08624974740434,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 29.wav
+35,-49.99814811379634,39.832893127098835,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\TM-88 Cymbal [Group].wav
+36,-43.418597109404246,37.88233082414328,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\TBP - Perfect OH - Loop_2.wav
+37,-53.730085686502505,15.9001172035722,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Hit 10.wav
+38,15.45703478079056,-68.60221690048861,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\DY 808.wav
+39,28.64199789349757,28.759188534679243,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\B-RackzClap.wav
+40,-56.30247189995784,44.11341160926631,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\Crash 1 (Zaytoven).wav
+41,-40.16786069436426,-13.778544500447083,3,Crashes & Cymbals,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Crashes & Cymbals\CaHitz Crash Drop.wav
+42,-12.989450169283748,-20.936952194354646,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\nm - fx_lilpurp.wav
+43,-45.84695199798288,39.03251018618782,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Perc 13.wav
+44,-32.141640047121015,-21.597568206192403,5,FX,./data\Glockley (Shows The Screen) Drumkit\FX\Tubular (7).wav
+45,71.89966029941608,-12.145100282860504,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\TM-88 Kicks [Metro X TM-88].wav
+46,33.746074536578156,29.506588664288653,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\clap_whippa.wav
+47,15.490549346377495,4.586418197413691,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BQ_snare_tunnel.wav
+48,31.244488170124203,30.025775497880367,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Quarter Milli Clap.wav
+49,11.345711159289396,48.44522466184486,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Sn (London)_2.wav
+50,22.664248008655502,45.67238076176455,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Snare [ 30 Roc ].wav
+51,-38.46534135107754,9.302583927375027,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\BQ_cymbal_wide.wav
+52,15.420554275554483,23.86761135693677,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare 18.wav
+53,16.940165343574467,6.507078314934867,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\rim_01.wav
+54,-48.17125983845858,42.94585846029339,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_15.wav
+55,52.4987041323845,28.523011184581318,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (59).wav
+56,17.37716234569873,2.005399387098982,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\[rimshot] (5) christopher.wav
+57,35.710428828233766,31.301563442177727,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\TM-88 Snare [Cross da Line].wav
+58,-80.67554733119964,12.604982695622216,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\MP Hat 1.wav
+59,24.225672577328602,45.84705079614171,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (129).wav
+60,-27.229000190129252,-2.4558053888585873,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\vybe809DJ-SPIN.wav
+61,26.17153745311431,35.29265710546369,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\[ACD] - AraabMusikSnare (2).wav
+62,-11.679234761898968,-26.28732267581099,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\Crowd (2).wav
+63,28.403503875704136,-55.60055756776958,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\TBP - BodyCount 808 - Loop_2.wav
+64,-6.269063733441984,-20.48591469526021,10,Vox,./data\Kenny Beats (Shows the Screen) Drumkit\Vox\Zack Fox - The Cave Vox.wav
+65,-23.804423065751735,-33.79160160678197,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\NM - SpecialFillUp FX.wav
+66,29.174661260287646,-52.46714247586179,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Gucci 808.wav
+67,3.581947987315683,17.475207937028323,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\trunk snare.wav
+68,-62.87096093720729,10.377450965667695,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Ducko_hihat_20.wav
+69,56.72833722505122,-22.182030920140843,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - PushaZ Kick.wav
+70,-19.471423396269874,7.057189370431064,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 30.wav
+71,51.41255777831762,35.37285899099122,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\NM - Bank Clap.wav
+72,-48.90241443454437,24.042521603905932,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\HiHat (93).wav
+73,62.163706175193866,-26.331350947964776,6,Kicks,./data\Chief Keef (Shows the Screen) Drumkit\Kicks\Kick (Keef).wav
+74,27.76471811699749,-48.167332490833424,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\spinz 808 (2).wav
+75,-42.09925893785106,-18.865877295194114,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\[ACD] - KillBill FX_5.wav
+76,-53.50942647700415,20.58393618100504,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\Triangle 1 (Hobby - Chief Keef)_2.wav
+77,29.432047602837457,37.80890565444705,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\Clappy Snare - Up Topp.wav
+78,-49.171722867579234,40.70907050377335,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\Crash3.wav
+79,8.911193658297382,18.48811647972698,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Glockley Snares (8).wav
+80,6.037699606122215,8.37187997098756,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\Zapp_1.wav
+81,71.40362623969335,-12.364877163662142,6,Kicks,./data\London on da Track (Shows the Screen) Drumkit\Kicks\Metro Southside Kick.wav
+82,8.022506554053855,-63.564997758495245,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 19.wav
+83,-50.70162860759608,17.19445404937671,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\BQ_percussion_decay.wav
+84,64.609133702011,-25.019988724181943,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\SizzKick3.wav
+85,-11.851968596340637,3.667714309370042,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 28.wav
+86,-42.6306042101129,43.518540488285325,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\DP_crash_06.wav
+87,5.96568880865597,3.6421013379380742,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Percs1.WAV
+88,20.28402247921217,55.972192087904034,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\god snare.wav
+89,17.376283366678695,35.39200435926107,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\TM-88 Snare [Master].wav
+90,2.54029005302846,4.541543316969014,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Cardo (Perc).wav
+91,33.723818813495896,48.68230322581677,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (147).wav
+92,17.70294055593688,32.52847759503021,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\DRE3-2CD 020.wav
+93,-27.706666566826563,-14.912033176445409,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\BQ_bell_chime.wav
+94,21.204209252423293,54.6684920774822,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Sound (31).wav
+95,-39.75234503887287,45.43737211240739,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\NM - Hndrxx OH.wav
+96,65.81826591514715,-14.491456048998897,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - Wing Kick.wav
+97,-15.091043667406286,-20.38269211100904,10,Vox,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Vox\Ducko_vocal_04.wav
+98,29.787392803715207,-40.807413855330296,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\Glock.wav
+99,70.31641805406554,-13.625011969195333,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\5 ( Kick ).wav
+100,17.91744986168279,-73.7116978364046,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\Glockley Venom 808.wav
+101,-37.85937634263002,6.746358580395481,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (73).wav
+102,12.848577780771432,23.662099528977475,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\ChopSquad Snare.wav
+103,65.74127104948285,-14.179914764524666,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\BEAR Kick_2.wav
+104,-31.26207239976441,-20.766181612305296,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (70).wav
+105,-27.625874496085412,-12.6186981340827,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Perc (41) Dj Plugg Shaker.wav
+106,22.330358810059113,1.762935887940601,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (2).wav
+107,29.757052507317184,-56.59608946902261,0,808s,./data\Chief Keef (Shows the Screen) Drumkit\808s\808  Chief Keef Big Boss.wav
+108,20.62445704272433,-61.32840623805221,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_06.wav
+109,-25.471029497653916,-12.748071781620416,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 6.wav
+110,43.19880894178543,30.550812167290594,1,Claps,./data\Chief Keef (Shows the Screen) Drumkit\Claps\Clap 1.wav
+111,13.961960650180739,-66.51733279191153,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\[ET] Layup 808_2.wav
+112,19.135013233748978,-78.07265542587731,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\B_808 - (M1 Slides).wav
+113,29.19211139710105,35.08331133531655,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\TB - Requim Clap_Short - Loop_2 -1.wav
+114,-41.976404241038935,40.840236161396405,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\OPEN HAT - MAFIA.wav
+115,-47.64070464554884,15.262788311291802,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 4.wav
+116,69.14271691388616,-15.024378727849108,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - Uno Kick.wav
+117,4.832907807301405,20.26906231474224,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Toomp SD 2.wav
+118,26.841155010484883,-67.54529788409369,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\808 (B-Rackz).wav
+119,11.376752581971562,-67.83937816625487,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Bodega (808).wav
+120,51.59404410710925,27.842458912434306,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\TS Clap 2_2.wav
+121,47.060276586494496,29.026617136396908,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\KENNY BEATS CLAP 23.wav
+122,28.128504389649102,-61.37108861495046,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\Mag 808_2.wav
+123,11.356922386880516,35.177232472187306,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Digital (Snare).wav
+124,10.3287585892727,-71.43510004592989,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Plugg-extendo with a dick 808.wav
+125,-54.49890467812005,42.93544413872871,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\Chop Crash (2).wav
+126,30.25855538985073,35.608081325710415,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (152).wav
+127,7.317400579544879,4.635184676610183,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\808_Rim_01.wav
+128,-74.20387360014863,15.698173127832808,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\Refuge HH1_2.wav
+129,10.79868250855171,36.49297702424299,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\SKRILLEX 2011-2012 BASE SNARE.wav
+130,9.138987970052215,-73.27547422729592,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 37.wav
+131,28.77695926791977,41.862293134580355,9,Snares,./data\Chief Keef (Shows the Screen) Drumkit\Snares\Sledge Snare 1.wav
+132,42.510395306293354,27.416083443456586,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap (3).wav
+133,-65.56335590951878,10.527189753013614,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\BWB UPGRADE3 Hi-HAT (10).wav
+134,25.594399678990726,-61.73154209346052,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 (SavageMode).wav
+135,-49.05249060017223,30.5473872529882,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_04.wav
+136,66.36071342444019,-22.971845467075056,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\plugg- rackz kick.wav
+137,21.281990071158567,1.344675380985201,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (32).wav
+138,-47.97503420880345,32.574196195886614,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Perc (Wicko Wicked).wav
+139,8.022530533141698,-63.564551083857744,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 22.wav
+140,32.64386251906296,30.05097154330398,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\nm - manny clap.wav
+141,-44.09273171240146,46.481669430976396,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\nm - scum hat.wav
+142,-12.252696866057656,-19.337160287699213,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - Faulty (Vox).wav
+143,28.96722903673786,47.453810062575684,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Sn (LilJon)_2.wav
+144,-27.75268605313263,-18.44151565071703,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\NM - Impact 02.wav
+145,-74.51333181794858,9.617157232672232,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\YK - Metro HH (Hats)_4.wav
+146,32.17170427117766,-59.53621912770959,0,808s,./data\Chief Keef (Shows the Screen) Drumkit\808s\808 [ Chop ].wav
+147,-25.22982241176839,-32.95345250773701,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (42).wav
+148,-11.347926766230593,-22.717703269742177,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - (Vox) Youngsta 1.wav
+149,19.63417995397597,0.7671529084645622,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\YN - Nola Perc_3.wav
+150,-33.42296381348466,-20.586410308758925,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\NM - Up FX.wav
+151,31.474116629946284,-37.829456357282425,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\808_Timpani_02.wav
+152,-35.10772687245305,-20.05993526394839,10,Vox,./data\London on da Track (Shows the Screen) Drumkit\Vox\London on da Track Vox.wav
+153,35.79729292722558,30.768719792765587,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\clap [ tenthousand ].wav
+154,-38.837600030600015,3.5148201371269714,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\PJ - Tarentino Riser (FX).wav
+155,36.1705102867058,-41.49464765630475,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_13.wav
+156,-28.839745881616935,-2.435787777842308,6,Kicks,./data\Glockley (Shows The Screen) Drumkit\Kicks\REVERSE KICK.wav
+157,21.126970968389788,55.3425088381523,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Trapaholic Snare (9).wav
+158,31.52305995538332,49.76139369450692,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\boyanima.wav
+159,64.09420801492105,-16.43246314371375,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\1 ( Punchy ).wav
+160,-45.25517850430505,-15.693445196711846,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\DC - Turtle TransFX.wav
+161,-33.57967139946803,-20.032870650491788,5,FX,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\FX\FX4.wav
+162,-43.51214127790301,42.80422458887308,8,Percs,./data\London on da Track (Shows the Screen) Drumkit\Percs\Guttaperc2.wav
+163,-69.00478110576948,10.223055645269879,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (4).wav
+164,-58.45317994897149,45.014259853372984,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\Southside Crash.wav
+165,5.50129055607939,16.650814102885672,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_09.wav
+166,-26.79265098197176,-14.041986953747372,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Hussein Kill Bill Fx 7.wav
+167,7.947948707172855,45.643751292584426,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\JR - Gusto (Snare).wav
+168,19.64871107891392,-79.19653888547217,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\TM-88 808s [Big Choppa].wav
+169,-25.356608574927243,-17.627603417152468,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (57).wav
+170,17.549817871861304,8.044972231707774,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (8).wav
+171,-42.524182045345924,29.543039034748517,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\CL_OHH1.wav
+172,-42.828591632881476,37.31354386267885,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\Pers (18)_3 - Loop.wav
+173,16.102761846702744,-69.62522778398233,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\dirty808custon.wav
+174,69.42082881683281,-14.294650510173264,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\We Made It Kick_7.wav
+175,-41.80121715702428,7.685720681605484,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\Chop Hihat (2).wav
+176,26.27881142868624,-61.64979848559919,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Metro Boomin' 808.wav
+177,-40.44532302999352,-13.56918007509327,3,Crashes & Cymbals,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Crashes & Cymbals\Ducko_cymbal_crash_02.wav
+178,9.770659264251153,48.80757814507486,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare 54.wav
+179,70.35446154421514,-13.93691830380725,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Rack Kick.wav
+180,42.906361170367255,31.467129223964033,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Trapaholic Clap (22).wav
+181,35.7837426310336,34.72781712546543,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (139).wav
+182,34.07374292134045,-47.61069993196699,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Ghosted 808.wav
+183,-15.914271015138072,7.9097565689561735,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\nm - buckles_2 perc.wav
+184,64.20493947359066,-19.737286563458863,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 42.wav
+185,-37.004265865509936,38.906217799110465,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\without warning offset open hat.wav
+186,-14.681091273954571,5.789548712575305,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\nm - romance_wet snap.wav
+187,10.423258112154398,18.892137813670004,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\KENNY BEATS SNARE 28.wav
+188,-39.39595537760115,-14.911965637860082,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 15.wav
+189,-32.67297622623662,47.48053778880393,7,Open Hats,./data\Glockley (Shows The Screen) Drumkit\Open Hats\Open Hat 2 [ JR 808 ].wav
+190,-82.57436331270331,9.134273105733799,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\MZ Hi Hat [Zaytoven Lo].wav
+191,16.159959408207346,-59.63925285673633,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\Punchy Spinz 808.wav
+192,27.68808199029109,-60.2918766945846,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Sizz8081.wav
+193,-15.841328389013368,2.4582479966844795,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\nm - shake sum perc.wav
+194,-76.8110645325612,15.174064836835372,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Official Trap Closed Hats (4).wav
+195,-33.28115785177174,-29.99995602901854,4,Extras,./data\Kenny Beats (Shows the Screen) Drumkit\Extras\rainbow_six_71bpm - Part_2.wav
+196,15.917781056619221,-1.3353719213581452,8,Percs,./data\Chief Keef (Shows the Screen) Drumkit\Percs\Dp Beats- Snap (1).wav
+197,-43.04082305780861,30.844412059962366,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\LEX TRIANGLE.wav
+198,-8.394372534984168,-23.36981587231938,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\nm - vox_taz2.wav
+199,19.67059106679599,46.21887249082896,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Trapaholic Snare (5).wav
+200,5.491804831098392,46.669227964424316,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Sn (Mirror)_2.wav
+201,-11.116788261455746,-21.629121458086786,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - Sig2 (Vox).wav
+202,13.287975328984794,-74.75207646204625,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_21.wav
+203,10.591185870272051,-61.5520888495431,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\lex no drop.wav
+204,-23.160610882841663,-40.27300824199197,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Sinister Sub Bass.wav
+205,63.5500529856254,-26.198973820958827,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Kick (Pyrex-2).wav
+206,9.025629965064617,40.89422477523246,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\[ACD] - JohnnyJuliano Snare (1).wav
+207,-80.55510943181793,20.809904279674246,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\Hihat - Rounded.wav
+208,6.710737630707925,-75.25855228126423,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 9.wav
+209,29.662539189184375,-52.32455192358045,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\HEAVY 808.wav
+210,30.828554487597497,-53.95851277003092,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\B-Rackz Main 808.wav
+211,62.66825818432379,-19.91968157096195,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 25.wav
+212,-27.388808989691004,-26.27067970217177,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (65).wav
+213,-75.05468298384307,12.085192227842343,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\TM-88 Hats [In Da Cut].wav
+214,27.575147741876368,-51.91491208701259,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\Glockley Revxmp 808.wav
+215,-56.990028326791595,45.060758082570615,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\DP_Crash3.wav
+216,4.476075428311137,14.569822045252184,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Ducko_snare_sharp_03.wav
+217,8.239981184305424,-70.71491509651722,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 (DistMetro).wav
+218,-46.244888380357274,13.035347975094282,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 35.wav
+219,13.118410188340274,-59.8578660183285,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\BWB VAULT 808 (Fki).wav
+220,-8.268542686334031,-16.734015626360517,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - HH Roll 07.wav
+221,33.00293428450693,49.62032171795534,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\(Snare) Southside.wav
+222,17.70527384764822,-80.34552051293237,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\Deezy Beatz Dj Plugg808_6 - Loop2 .wav
+223,21.283539867904718,41.3257886387245,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Ducko_snare_14.wav
+224,-39.33400637350508,6.289352787297937,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\BWB 808 REVERSE SUB (1).wav
+225,-10.796792459356245,1.8647176865245139,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Crunch Perc.wav
+226,-61.52769288770473,13.04221404292149,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 16.wav
+227,63.610960068169646,-18.88823838630178,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\Well Rounded Kick_7.wav
+228,-53.14137799129683,40.413650199604064,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\DP_crash_01.wav
+229,28.567517849375683,-39.951270626925215,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808  (3).wav
+230,9.637938644483054,-70.97603486585918,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\[ACD] - MikeWill 808.wav
+231,-3.2805801256535845,-22.164143837088645,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\Vox 1 - Chant (Clean).wav
+232,16.829074348038983,45.400004532623775,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare [ TM ].wav
+233,9.043660079194447,21.70887999188723,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\nm - accent snare.wav
+234,28.227741454082985,-62.99242488145687,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_08.wav
+235,-11.119464375555724,-15.778037655817668,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\Vox (Metro Laugh).wav
+236,16.356720074506892,-79.93543788615152,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Contra 808.wav
+237,-33.44174487121279,-29.53674643865751,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Loop (7).wav
+238,-58.159600127801234,45.737900957088065,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\KEEF CYMBAL 1.wav
+239,-62.47720525065231,11.059820052814107,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\Hi Hat 4.wav
+240,40.15558857743887,31.282211223998953,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (7).wav
+241,-25.007252467022344,-24.20624311317202,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\plugg-stomper perc.wav
+242,-7.594860954799174,-16.357844810600596,5,FX,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\FX\FX (Murda-x-FKi).wav
+243,20.280327826176407,45.31218175564847,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare 12.wav
+244,-21.493976267716203,-31.147614400537172,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (13).wav
+245,34.11753282220244,35.597200251468664,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\SKRILLEX 2011-2012 SNARE.wav
+246,45.945118449706534,28.800963144915897,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Clp (Uzi).wav
+247,-35.62430875008953,-4.186896078940408,4,Extras,./data\London on da Track (Shows the Screen) Drumkit\Extras\Pearl De Luna - London Lullaby_4.wav
+248,28.878648683076534,53.410601558007166,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Snare 11 [ JR 808 ].wav
+249,16.000452333627436,-61.315175958241625,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_20.wav
+250,10.448702953829065,39.475167166154904,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Sn (NAV)_2.wav
+251,-10.954660427693097,4.734326857352004,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_16.wav
+252,-35.26811246522625,-24.595073541234203,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\(SXJ) FX (1)_2.wav
+253,48.48686693026752,45.58865586133222,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\nm - junya rim.wav
+254,15.526487255875127,-62.646572779687745,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Spinz 808 (Distortion).wav
+255,-27.4948086605585,-28.88492822657978,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (8).wav
+256,49.51959750764789,30.214191228791318,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\4 ( Clap ).wav
+257,15.777159390270985,7.65170579333486,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - YSL Perc_2.wav
+258,-35.026555914657536,-3.341487774858886,4,Extras,./data\London on da Track (Shows the Screen) Drumkit\Extras\London Alleys (Electric Piano_bip 2).wav
+259,26.890164631271972,-65.18752522937747,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\SonnySubx808.wav
+260,-32.664829593572634,1.314830595105283,7,Open Hats,./data\Glockley (Shows The Screen) Drumkit\Open Hats\weird reverse openhat.wav
+261,-39.63793690637972,44.341327147085885,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\Open-Hat - [Mafia].wav
+262,27.73417506393513,39.32142466052251,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (35).wav
+263,62.533728059256006,-26.89326869884803,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - Finger Kick.wav
+264,-76.31743572103537,10.229541729728048,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\HiHat (NobodyRides4Free - Fiend Kurupt Daz)_2 - Loop.wav
+265,-5.418627739163439,7.002401674637498,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\Kenny Beats Stomp.wav
+266,19.863262593809534,55.78599707478666,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Lex Luger Snare (2).wav
+267,-53.509339571666374,20.583981812258493,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Triangle 1 (Hobby - Chief Keef).wav
+268,-26.17627489101994,-19.03521768663707,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Waka - TUBULAR BELL 2.wav
+269,11.73685565755036,39.094889275368864,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\LD KennySn(remastered).wav
+270,-12.048261502345914,-20.725819556930304,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - (Vox) JamieFoxx.wav
+271,64.04654183452699,-26.253314000385277,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\K_Boomin.wav
+272,-28.21708718268169,-21.68655526168845,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (30).wav
+273,-6.03704312964178,-21.976577797754853,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\LEX Chant.wav
+274,9.7518228693691,53.78705257094265,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare (Trapaholics).wav
+275,-36.056453380186674,-3.6893158668128363,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\Rae Sremmurd - Black Beatles ft. Gucci Mane (Acapella).wav
+276,7.338382213443833,6.115587105339657,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 22.wav
+277,32.51856882420965,-46.617386369248436,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\B_Rackz_808_4.wav
+278,27.55401954397086,34.007176043381705,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\S&C8.wav
+279,-23.416059799524746,-34.80481349060354,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (43).wav
+280,-19.295485631858494,6.979050476925452,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Zay Perc 1.wav
+281,7.051072434302538,46.05030290408534,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\nm - refuse snare.wav
+282,16.082849723188648,-77.69256743428585,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\DIST5M808.wav
+283,-49.17170744746061,40.71001998767138,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\LEX Hit Crash.wav
+284,-4.055293142957953,9.029411509040216,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\MZ FX [Kenny].wav
+285,28.578827082587964,-55.14114107894155,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 20.wav
+286,9.680100449723687,-76.71469160678197,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 (Spinz).wav
+287,9.299499216007357,50.03597821277485,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\vybeGucciSnr.wav
+288,-52.056518170244004,16.780092492134248,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\BQ_percussion_jingle.wav
+289,34.78263250518499,51.1686701050667,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\YCSizzleClapSnare.wav
+290,-50.15148782935324,38.106647597142846,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\NM - Say OH.wav
+291,-32.04181902314598,-30.31129259999392,5,FX,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\FX\MM - FX (Sremmurd).wav
+292,-31.08397368855747,-21.607677300887964,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (6).wav
+293,-28.831555457635567,-26.80419529377607,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (81).wav
+294,5.313884459063968,19.57085681148894,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Snap 03.wav
+295,65.75707755282096,-26.190826481652923,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 34.wav
+296,-36.206281217131256,36.545593193170184,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - HH Roll 13.wav
+297,-52.18223309441383,18.77423510331714,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_loop_fake_names.wav
+298,59.33091053593076,-19.423844740875055,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\RawKik02_Du3.wav
+299,65.86438483643377,-22.388350228981928,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Dolph x RackKick.wav
+300,15.617259856997373,7.96772922081104,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\TM-88 Percs [Metro].wav
+301,-55.79581006935479,14.819403460169191,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Plug Closed Hat.wav
+302,17.812206921163355,31.54675981266102,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\KENNY BEATS SNARE 24.wav
+303,-62.73390420016072,12.81860646728505,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (41).wav
+304,44.82105584080298,28.3165518822877,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\Nick mira clap.wav
+305,-60.470898559172824,15.990923958207983,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 7.wav
+306,-45.32466502894088,12.436138369115515,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (56).wav
+307,40.07321860438834,52.09172596811112,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\sizzle clap.wav
+308,70.89850737166209,-10.996460203383645,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 47.wav
+309,4.7647928859535265,48.37395522212687,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\DBoySn_1.wav
+310,-50.62334034427201,36.9985987190966,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 19.wav
+311,62.15392914410109,-13.946517820520677,6,Kicks,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Kicks\Ducko_kick_09.wav
+312,-61.76359751393826,14.289136680559482,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\Bad Guy Hit - Loop_3.wav
+313,16.07693636770127,-76.19328364166815,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\nm - delta 808.wav
+314,-36.43425179745734,46.60476916430042,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\nm - goth oh.wav
+315,-53.30743077338775,41.76520395015336,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\plugg-alien open hat.wav
+316,72.52793174257829,-12.20017463152371,6,Kicks,./data\London on da Track (Shows the Screen) Drumkit\Kicks\Rack Kick1.wav
+317,-33.55787309706483,-18.213524496892955,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\NM - Impact 01.wav
+318,71.69362789855332,-10.969837334636399,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\Kang Kick_2.wav
+319,-71.85247042797693,10.42473315340802,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - Doorknob HH.wav
+320,54.53111487475895,-23.84346120653826,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\Stomp - Damage.wav
+321,32.172165511594805,-59.53419534946151,0,808s,./data\Chief Keef (Shows the Screen) Drumkit\808s\Chop 808 3.wav
+322,-16.246998688306295,-28.064257613554034,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - Grand (Vox).wav
+323,19.53494581893662,59.51059637477492,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Glockley Snares (9).wav
+324,6.163089724706258,12.332374632856123,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Orca Perc.wav
+325,44.17775952978062,30.854072213367978,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Metro Boomin' Clap (3).wav
+326,-22.11720331453406,-33.11911402512433,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (5).wav
+327,45.55659736763713,32.54052885045236,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\BWZYCl_7.wav
+328,-42.88623886484216,10.63356545456024,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\Hi Hat 1.wav
+329,49.36643119728523,32.16667715838978,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Clap_Migos.wav
+330,16.126115378944867,56.83188067845233,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\MZ Snare [Southside Bape Deep].wav
+331,-13.892765433341959,-2.2988512066471745,5,FX,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\FX\FX9.wav
+332,17.53681058907651,22.9738356688622,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (49).wav
+333,-35.70347135426599,0.5589487429541593,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Perc 10.wav
+334,-44.686480073898245,38.67178643399509,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\TM-88 Hats [SSO Open Hat].wav
+335,-11.535101170461667,-24.276731488273146,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\London On The Track FX.wav
+336,51.13652552156954,34.63900376413476,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (33).wav
+337,47.82033797065369,28.943309963320253,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\DY Clap 1.wav
+338,21.720744995595215,2.3204259788491806,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Ghostface Killers Rimshot.wav
+339,9.69257950815014,19.867302433834872,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\Waka SNARE ROLL PATTERN (68).wav
+340,64.09561782823003,-19.097886038402475,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Shawty Redd Sound (34).wav
+341,17.09019636915808,29.33400098034547,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\DP_snare_06.wav
+342,27.38286882472101,43.580286126175054,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Ducko_snare_11.wav
+343,7.8028895314297335,8.386051309875505,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Snap 02.wav
+344,27.70184516366277,-65.09585624826309,0,808s,./data\Chief Keef (Shows the Screen) Drumkit\808s\Chop 808 9.wav
+345,-36.434733095429166,37.9336234468541,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\Op (ATL).wav
+346,68.24111249931812,-23.695723967077075,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\JJ - Kick9.wav
+347,11.89016869020437,49.794751371887685,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (3).wav
+348,25.18338009026079,52.309177962540936,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\One Dolla Snare_2.wav
+349,-14.013215146453065,-22.32650840383161,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 3.wav
+350,-20.917376102465056,-14.049401675068275,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Ducko_hihat_loop_03.wav
+351,37.49992673460313,53.57875149967924,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap (Grammys).wav
+352,-25.792809799644775,-32.813443879675404,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Ends Perc.wav
+353,-67.26695764296163,9.401613251227841,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\hUSTLE SQUAD Percs (9)_9.wav
+354,17.088299071950434,47.11473376144008,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\TM88 Snare  (2).wav
+355,67.90798873136858,-12.77014930984515,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - Bojangle Kick.wav
+356,-80.49222976863061,19.99651763689467,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - Chevy HH.wav
+357,17.524723282288647,34.97378314568636,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\SizzSnr2.wav
+358,-39.42908334871561,41.62409267220027,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\[openhat] (2) sonny.wav
+359,15.82101783886568,6.7613274007632445,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rim (3).wav
+360,-40.16537910795529,14.180019040060017,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\TS Open Hat 5_2 - Loop.wav
+361,-7.517963716621365,-17.019905501468287,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\nm - grunt vox.wav
+362,-72.41978414903372,9.430084891690214,2,Closed Hats,./data\London on da Track (Shows the Screen) Drumkit\Closed Hats\HIHAT (THE LONDON).wav
+363,-7.404722690051074,-18.48350607588803,10,Vox,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Vox\Ducko_vocal_02.wav
+364,-27.855844968557314,-2.4282557464824364,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\Ducko_drum_loop_sampled_04.wav
+365,-36.303774450727666,40.64299460525441,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 18.wav
+366,-14.36624541505585,5.257556056779394,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\TMPerc_2.wav
+367,11.644845351713476,54.81521431321999,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare 003.wav
+368,-33.70495525491537,-19.65059816947218,5,FX,./data\London on da Track (Shows the Screen) Drumkit\FX\FX [ Drumma Boy ].wav
+369,34.99548290534945,-48.731138932053476,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 Bass A.WAV
+370,-38.64582742869281,5.789556596263984,5,FX,./data\Glockley (Shows The Screen) Drumkit\FX\Lex Luger FX (1).wav
+371,-11.435509645353758,-0.674443011348516,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 41.wav
+372,-11.535057858915632,-24.276697199835247,10,Vox,./data\London on da Track (Shows the Screen) Drumkit\Vox\Vox - London.wav
+373,-38.07040748142782,46.54048426321687,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\Pony Open Hat_2.wav
+374,12.502326393022145,-74.55927795823158,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [27].wav
+375,-46.84824973227282,30.99038489661444,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\nm - brussell oh.wav
+376,7.404722215689343,2.9805458500022017,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Tom.wav
+377,12.82317164366515,-65.53881677264212,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Sub Bass 1.3.wav
+378,-5.98778670991039,4.598007186005933,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (52).wav
+379,-48.04137341729999,40.00656142765971,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\KEEF CYMBAL 4.wav
+380,-26.38500310118463,-19.020189452993947,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Tubular Bell 2.wav
+381,20.538930750211016,54.37610975874644,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Glockley Snare (2).wav
+382,-25.571887809969095,-31.53565760742091,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - (Vox) BilliGoat.wav
+383,30.064650169537156,48.64756390582204,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - XXX Snare.wav
+384,21.257815174366065,58.079638950813106,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\HitBoy Snare.wav
+385,2.4400255777771784,4.140708120257536,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Glockley Snakeblood Rim.wav
+386,19.731249079221737,46.76522261066727,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Snare (18).wav
+387,28.59928283489684,33.7404227450166,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\[ACD] - StateProperty Clap.wav
+388,-22.389774072930233,-34.735791139730416,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (17).wav
+389,-38.729975982821706,4.952109558967805,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (50).wav
+390,8.361319636274699,-72.54521294671724,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\808 (FUCKING YOUNG)_2.wav
+391,-36.37073444677666,7.2614906928262,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Perc 11.wav
+392,14.810433830566186,48.709881223534325,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\codeine crazy snare.wav
+393,51.39162557358959,30.201926205913924,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Luger Slap Clap.wav
+394,67.82087110321027,-21.45066958735403,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\JEWISH Kick 2.wav
+395,18.04303494008271,58.093521957214314,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\DxSnare 6.wav
+396,-35.19933100854688,43.18831904292253,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\KaleonOpenhat2.wav
+397,7.2121480666245015,7.517082492616222,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BQ_snare_clip.wav
+398,16.2025522197128,3.523111119711527,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (20).wav
+399,16.644264659300813,-75.06177649525728,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\nm - granger 808.wav
+400,-75.45601024166378,16.844369626797874,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (53).wav
+401,-22.281471504198194,-30.57525271206277,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\VOX - Punk - C Major Chord.wav
+402,-77.82248416718821,14.654234653470823,2,Closed Hats,./data\London on da Track (Shows the Screen) Drumkit\Closed Hats\Hi Hat (London).wav
+403,-64.07546197420821,10.789825852726164,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Sonny Digital Hat.wav
+404,12.049579999753185,48.7290545428981,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\Sn (London).wav
+405,14.942656716782077,-68.44425963947594,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\DY #1 808.wav
+406,24.991001824423794,45.988192628502915,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\[Snr] Faithful YNG.wav
+407,-44.47486599877226,37.110997765368964,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\56 Grams - Hats (6)_14.wav
+408,6.674306490360758,-71.61619018574656,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\808 (5).wav
+409,21.72934446946767,0.6086335173286985,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\perc [ boom ].wav
+410,37.784606880255566,32.89208140832267,1,Claps,./data\London on da Track (Shows the Screen) Drumkit\Claps\TCE EX Lex Clap.WAV
+411,-82.30683186492976,8.150172840509082,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\Hi (Smokey)_2.wav
+412,68.82878273676366,-20.338642035900065,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\MZ Kick [Kenny].wav
+413,30.465510579499544,35.30609605133276,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Ducko_snare_24.wav
+414,-51.667762567500546,42.22515622249406,3,Crashes & Cymbals,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Crashes & Cymbals\BWB CYMBOLS (1).wav
+415,-45.51010518102941,12.948657161368128,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Hi Hat (3).wav
+416,44.83100739399818,33.112739113287766,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\NM - Auto Clap.wav
+417,29.2308062069414,-48.68446106710244,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\Glockley 808s (13).wav
+418,-18.2318404595168,1.4297688551645014,8,Percs,./data\London on da Track (Shows the Screen) Drumkit\Percs\Z Shaker.wav
+419,-12.286856654388476,4.789939594366421,8,Percs,./data\Chief Keef (Shows the Screen) Drumkit\Percs\Dp Beats- Shaker(4).wav
+420,-80.1917771755666,17.828393935953727,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\nm - muse hh.wav
+421,-17.969818669533765,6.973193838652672,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Perc 03.wav
+422,21.035414834614603,48.32588586786688,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\TM-88 Snare & Clap 2.wav
+423,14.193776376499489,-69.87441006029823,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Permanent 808.wav
+424,-81.42704723145786,17.68935360520491,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Classic Wonda Hi Hat.wav
+425,40.07330335130838,52.09168422145385,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\[ACD] - HustleHard Clap.wav
+426,-4.174188595200616,-23.33303337216952,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\[ACD] - ShawtyReddChant.wav
+427,-21.316713394269577,-14.893600303463407,5,FX,./data\London on da Track (Shows the Screen) Drumkit\FX\Stoopid Xool Key FX.wav
+428,4.591272394424986,17.712470241898508,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - Foray Snare.wav
+429,-41.5051490802392,40.69049324617308,7,Open Hats,./data\Glockley (Shows The Screen) Drumkit\Open Hats\OH.wav
+430,-11.710240469047513,-26.718287764941724,5,FX,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\FX\FX2.wav
+431,14.93077331515621,-67.11993294789553,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 [had enough].wav
+432,-44.05738654252832,39.9390716605662,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\OpHat (Redd).wav
+433,10.002914102987756,-58.654999674478994,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 30.wav
+434,-75.6111415016358,14.768034948065353,2,Closed Hats,./data\London on da Track (Shows the Screen) Drumkit\Closed Hats\ClosedHat_Crystal.wav
+435,7.4202585833371595,-59.49586680822466,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 40.wav
+436,20.391796694313065,1.064113990089281,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\without warning 21 x offset rim.wav
+437,-42.493889944168785,37.96042521201939,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HIHAT (2).wav
+438,27.575558422531426,40.858673175243986,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\KENNY BEATS SNARE 8.wav
+439,32.81393817705273,-45.996445389310956,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Pluss 808.wav
+440,-33.66013977701758,37.94033203281077,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\DT - Mixx OH.wav
+441,33.408755515157985,-44.60513509726395,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_03.wav
+442,68.76313062649754,-24.186429157160557,6,Kicks,./data\Chief Keef (Shows the Screen) Drumkit\Kicks\Kick 3.wav
+443,-44.55925858872695,37.27017315325737,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\56 Grams - Hats (6)_14.wav
+444,15.808918127896387,50.053412229999985,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\SouthSide Snare (19).wav
+445,-38.603369270473266,36.87215665948985,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\OpHat (Coop).wav
+446,54.531952632352876,-23.841266920366017,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Stomp - Damage.wav
+447,-54.78295463043449,20.854426567744596,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\01 Lex Luger Bell.wav
+448,-40.96041972127074,13.907631754895144,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\NM - Belt OH.wav
+449,25.183288111378907,52.30920901463375,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (43).wav
+450,42.00095288939461,31.140941050611694,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\et - arkham (clap)_2.wav
+451,31.260551930781354,-50.7083453805126,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_loop_05.wav
+452,-70.40700499722739,9.30584735855708,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\SIZZLE-HAT.wav
+453,-27.781751027896398,-27.1503922963649,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (51).wav
+454,-76.67526167887489,17.520224057541284,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\KEEF HAT 1.wav
+455,38.54244654282319,51.72922128149463,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\briccbaby.wav
+456,17.125747936038202,-61.092671645345945,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 Mafia - 808 1.wav
+457,-30.141956301059356,-2.345570591983654,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\tm kick.wav
+458,-27.43929269540703,-31.96278737573084,4,Extras,./data\Kenny Beats (Shows the Screen) Drumkit\Extras\rainbow_six_71bpm - Part_1.wav
+459,18.59439737979535,53.90230589425237,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\MZ Snare [Zaytoven Accent Lo].wav
+460,72.30248931034522,-12.986318206684134,6,Kicks,./data\Glockley (Shows The Screen) Drumkit\Kicks\08 Kick - Rack 1.wav
+461,17.298378450150754,30.49950684439465,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Hussein Snare 11.wav
+462,65.2040944656591,-13.907585141346665,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 28.wav
+463,37.60492421943417,-48.18419800282886,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\PRIVATE 808S (25).wav
+464,-40.04341018897712,13.336626703617652,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\[ACD] - Live HiHat Loop (1).wav
+465,7.3168347077170965,-73.4489152838868,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\REX 808 3.wav
+466,-2.8477685845699736,-23.34745262544859,10,Vox,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Vox\MZ Chant [Zaytoven].wav
+467,67.54336050432534,-20.187977487287487,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\TBP - Kick (London) - Loop - Loop.wav
+468,-59.424410281159815,14.021454599844255,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 50.wav
+469,-13.502431974461546,2.5003269750420576,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Pencils Perc.wav
+470,-43.80529536573106,42.02660077630367,7,Open Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Open Hats\MZ OH [MikeWill].wav
+471,19.96776469972241,4.275009341278621,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (36).wav
+472,-8.990305669567995,-26.335567238976555,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (64).wav
+473,-17.888120683983864,1.0071095833758512,8,Percs,./data\London on da Track (Shows the Screen) Drumkit\Percs\Zaytiggy Shaker.wav
+474,4.6063732536247795,-71.23057880342812,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\REX 808 1.wav
+475,-9.725281716298717,2.1978536813282563,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\TS Perc 5_2.wav
+476,13.170373860150061,47.871115096831,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - MindRight Snare.wav
+477,16.22686756904893,48.16490535813233,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\DY Trunk Snare (4).wav
+478,49.60726688882813,41.977522690876405,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\nm - boy clap.wav
+479,-9.70687419244361,-13.342949159553353,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Perc 01.wav
+480,31.513164563347743,-61.36176457258584,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 (19).wav
+481,10.744059026523557,-72.18771395294617,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\DDB 808 2.wav
+482,39.18978924949902,-45.32584708464405,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Boom Jungle        .wav
+483,36.73838989370056,-40.87778347702424,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\RawKik01_iL1.wav
+484,-81.96809379373428,9.060083069780468,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HIHAT (1).wav
+485,21.574278866048992,-60.81271252674047,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\lex luger 808.wav
+486,-26.560957445763567,-20.515568742615553,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (17).wav
+487,-34.54257153079817,42.4022251615987,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\TM-88 Hats [Open Hat 3].wav
+488,62.15363939330899,-18.39903934531111,6,Kicks,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Kicks\CTS_Kick4.wav
+489,-14.88197869258646,-3.146669638028709,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\DP Bell.wav
+490,5.581114341791212,51.668059452047345,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (106).wav
+491,-35.79835596628677,43.154789260255455,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\OpHat (Mafia).wav
+492,-68.51039980725972,9.560741436630178,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Red_Hi_Hat.wav
+493,-30.566963830827433,-12.041222453825418,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\THPS1_Tape_2.wav
+494,29.174502529158914,51.88519896943571,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Snr (Narcos-1).wav
+495,66.86356463225889,-25.518258482836465,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\TM SIZZ KICK.wav.wav
+496,17.096959779459095,3.7579847137918474,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\MZ Rim [Gucci].wav
+497,41.9355484700067,26.83924279407631,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\BQ_clap_shuttle.wav
+498,13.517546171067924,-75.96386054153963,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\BWZYSub_1.wav
+499,-3.2836903813762377,5.899492520739753,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\KENNY BEATS CLAP 16.wav
+500,-67.22446729529342,11.101301400609927,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\Hi (HolyWater).wav
+501,-24.626980924169484,-36.674782687263004,4,Extras,./data\London on da Track (Shows the Screen) Drumkit\Extras\Oh Okay 70 bpm Key G .wav
+502,-14.612903841528926,-2.976836131757149,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\BWB [WAVE 2] PERC (21).wav
+503,-40.949130643734804,37.22141365763804,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\[ACD] - Trap Cymbol.wav
+504,-26.537466607771023,-28.175567027781288,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (34).wav
+505,48.512007281159555,44.0465870885007,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\REX CLAP 1.wav
+506,19.562106431725024,-71.17687191776953,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Dj Plugg 808.wav
+507,64.74434064125326,-17.817572946590342,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 43.wav
+508,-33.42298190117067,37.90366898425142,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - HH Roll 04.wav
+509,29.230275936846542,41.256879783104026,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Sanre (7).wav
+510,11.036092309097643,39.308375973280754,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\KENNY BEATS SNARE 27.wav
+511,-41.831229872995266,40.404108067426414,7,Open Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Open Hats\Openhat - Classic.wav
+512,-26.365274917659086,-22.95762764694455,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\BQ_vocal_fuse.wav
+513,-4.483553799066406,1.4397161823539046,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\nm - nah vox.wav
+514,19.345952389724154,30.36664215352762,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (189).wav
+515,-12.353405758823394,-22.58607593786314,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - (Vox) Ayuh.wav
+516,7.376385941423399,21.618170693767908,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BWB [WAVE 2] SNARE (39).wav
+517,4.147090790443377,54.78616739612481,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Trapaholic Snare (4)_2.wav
+518,-35.41691571354876,-24.434494564960065,5,FX,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\FX\CaHitz Fancy Rise.wav
+519,20.613234844330073,-76.54956153568179,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\siz seceret.wav
+520,48.90113513161,42.69914940686461,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Clp (11AM)_2.wav
+521,-30.120381641588473,-23.3330243566034,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (78).wav
+522,-26.138418684747354,-33.85937787627353,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (60).wav
+523,15.748780577464768,49.712025140120225,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare (1) 808 Mafia.wav
+524,-81.26985335458365,8.843800745642513,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 22.wav
+525,33.903094347263036,-46.026305759157246,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Clarice 808.wav
+526,28.864384680007316,38.94607652803391,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Cardiak_sLexSnare.wav
+527,-24.94080861366634,-35.250058179235836,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (83).wav
+528,21.72177163997283,57.50952635173409,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\Willare Snare (5).wav
+529,21.724120376581592,-56.12252827569646,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Jugg 808.wav
+530,15.649299141583652,-66.68846774767152,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 2.wav
+531,-32.65840567362813,47.511649482271416,7,Open Hats,./data\Glockley (Shows The Screen) Drumkit\Open Hats\Glockley OP  (2).wav
+532,6.644174699261522,52.79783986147395,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\SEPTEMBER Snare.wav
+533,-37.663339931214445,2.745472476359825,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\1_120Bpm.wav
+534,-43.18428796043292,32.2545734797693,7,Open Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Open Hats\Cardiak Open Hat_8.wav
+535,35.69346293421041,-42.72936331811244,0,808s,./data\Chief Keef (Shows the Screen) Drumkit\808s\Chiefkeef808.wav
+536,-16.202553547293856,-27.24927397531057,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (38).wav
+537,16.280555534605107,23.557602001139813,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\Rim - Zay.wav
+538,-24.222200668431828,-37.13145341689528,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Techs Perc.wav
+539,3.104908408757218,-68.12764081729472,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 35.wav
+540,10.630152978623942,47.53435201686503,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Snare (Bring it back).wav
+541,-41.430892173399364,6.593709361078156,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - Gig HH.wav
+542,-64.60620210138813,12.505061821500492,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\Cardiak HiHat 3_46.wav
+543,19.092340694617228,1.6863733686428528,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (13).wav
+544,-67.82707370772245,10.21664544104842,2,Closed Hats,./data\London on da Track (Shows the Screen) Drumkit\Closed Hats\Southside Hi Hat.wav
+545,15.702959426953425,-1.0461721591777937,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\nm - dune snap.wav
+546,29.30011758174294,40.68335971360465,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (181).wav
+547,-35.294929839551074,-16.63643359763478,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\DC - Clash Impact.wav
+548,-37.7221233450055,6.003756766817699,4,Extras,./data\Kenny Beats (Shows the Screen) Drumkit\Extras\Lalo Schifrin - Danube Incident ~ BPM 88.wav
+549,12.420261821255611,-75.39728498953228,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Sub Bass 1.wav
+550,38.18784354293335,50.31511422037464,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\taytay snare 1.wav
+551,-1.929857946070113,-23.063524601345723,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\ZayChant Ha1.wav
+552,69.4642062277309,-21.492896728339936,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Plug Kick.wav
+553,-29.825236139315624,-31.481986102451003,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 32.wav
+554,62.53919442317335,-28.59460085238798,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 35.wav
+555,33.760826488800284,30.71930964192842,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (32).wav
+556,8.7171675943512,-76.3752110019826,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [28].wav
+557,-31.335586293504452,-30.096066282542196,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (79).wav
+558,-51.13682341516012,41.652160083955735,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\OpHat (OG-Trap).wav
+559,-55.25365312262229,20.503230878370587,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\BQ_percussion_ring.wav
+560,6.711053681097725,19.232445894627862,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\SKRILLEX 2010-2011 SNARE 2.wav
+561,-28.170696768468176,-29.092437441531878,4,Extras,./data\Kenny Beats (Shows the Screen) Drumkit\Extras\Wee - Aeroplane (Reprise) ~ BPM 78.wav
+562,27.257014551961888,-64.58715494401883,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Mob Ties 808.wav
+563,-73.59696244068141,9.289770256972995,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (13).wav
+564,-38.92378647075076,46.897791558613655,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\TBP - OH (Durwty)_5 - Loop_2 - Loop - loop.wav
+565,-36.914800103595425,42.37950550530368,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\808 Mafia Open Hat (2).wav
+566,-50.09906103338552,42.94026018187456,7,Open Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Open Hats\OpHat (Analog-B).wav
+567,-16.543488268092972,7.828625949046766,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\KEEF HAT 2.wav
+568,-5.71691313092407,-23.420033046856062,10,Vox,./data\London on da Track (Shows the Screen) Drumkit\Vox\Slim Dunkin - Squad Chant(1).wav
+569,-41.30289911266399,41.793336051392586,7,Open Hats,./data\Glockley (Shows The Screen) Drumkit\Open Hats\Boomin OpenHat.wav
+570,21.32980390652486,59.12949627391925,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\NIS SNARE LAYER.wav
+571,12.304861534730291,3.087536133649703,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\vybe809Tom.wav
+572,47.306958057410284,31.074185876172535,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\SA Clap 2.wav
+573,51.00251864161034,30.00413432933174,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Southside Clap (1).wav
+574,-58.64444512580724,45.37151442966221,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\[ACD] - Southside Crash.wav
+575,9.93263380350737,16.687290218016468,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (6).wav
+576,17.853010633331376,56.316641055077795,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Lex Luger Snare (1).wav
+577,34.93952594735226,-44.01099205093594,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 13.wav
+578,64.24778124893261,-17.031643068697417,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\BQ_kick_scoop.wav
+579,29.100144075046135,-50.39619869011031,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Sizz8082.wav
+580,-26.321240013218983,-18.883825896996743,5,FX,./data\Glockley (Shows The Screen) Drumkit\FX\Tubular (3).wav
+581,-81.93729382687886,15.997670770299916,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Demonslayer_Backpack Hi Hat.wav
+582,6.565256636513881,4.943814086841977,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Percs10.WAV
+583,34.97742797999518,50.742143751665054,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Glockley Clp + Snare.wav
+584,-35.890635122432855,38.031123519740966,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Ducko_hihat_26.wav
+585,33.36750460957578,50.80313071443656,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\TB - Borealis Snare_Master.wav
+586,-66.1605804051373,13.017592141491557,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 23.wav
+587,32.97760730726612,-50.03096277692925,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 27.wav
+588,62.30408994285396,-22.608413493727497,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\[ACD] - JohnnyJuliano Kick (2).wav
+589,15.079448698173843,9.7975458983075,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Pony Perc.wav
+590,15.319118886437249,45.19614260486036,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Sn (EarDrummers).wav
+591,62.57607838435226,-13.776346824472,6,Kicks,./data\London on da Track (Shows the Screen) Drumkit\Kicks\Kick [ London ].wav
+592,50.593809150151095,44.37267274653013,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\KENNY BEATS CLAP 9.wav
+593,-51.278151158367415,17.857266659499345,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Medals Perc.wav
+594,37.744500183058726,-47.65096275185101,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\F_NarcoWave - Real McCoy 808.wav
+595,-4.533105015843299,7.887149640635681,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\nm - jr roll snare.wav
+596,-40.41255127019992,10.50765195737681,3,Crashes & Cymbals,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Crashes & Cymbals\NM - Slide Cymbal.wav
+597,-77.5538884985128,15.760616655770539,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\Keef HiHat.wav
+598,5.477806115010682,-74.89927410275345,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\XEROGI 808_2.wav
+599,-44.24144386133581,-16.36353439168821,5,FX,./data\London on da Track (Shows the Screen) Drumkit\FX\Mad High FX.wav
+600,-66.63188443430535,9.647811033316076,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Hihats4.wav
+601,20.57743908483419,55.00423589547373,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Trapaholic Snare (9).wav
+602,58.97960884554236,-21.904857110932653,6,Kicks,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Kicks\MM - Kick (Sremmurd).wav
+603,-31.0328662312247,-25.576698693901196,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (41).wav
+604,-29.076578079901548,-12.027713455339835,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Perc 17.wav
+605,-38.120731963563294,3.7360939117878504,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\FX [ Tarentino ].wav
+606,34.91016519596066,-44.03895098588455,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 28.wav
+607,-48.61335613162788,43.97602345483904,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\[ACD] - SouthsideTriangle Hat.wav
+608,-42.92888898423301,-17.3649517695539,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\FX [silk]_2.wav
+609,20.31742264556858,1.5454299534974452,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\My Choppa Hate Niggas Rimshot.wav
+610,-46.16648817901528,37.09535411200198,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\JJHiHat (6).wav
+611,3.392292993883133,-77.23794814003506,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\lex siz 808.WaV.wav
+612,25.194823531059832,30.67667955198633,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\SKRILLEX 2010 SNARE.wav
+613,33.99793248193395,-49.93682822206478,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\DIGITAL_NAS_808_smoke_purrp_jump_C#_2.wav
+614,34.20744490634579,-43.204904071585254,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\808  (1).wav
+615,-72.6253212288233,11.375145442228458,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\MZ Hi Hat [SSO].wav
+616,12.744513057118057,-62.46241913514764,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Trey808_1.wav
+617,5.705343584358244,-79.51470261463466,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Frendz 808.wav
+618,-8.51470932701711,-17.59001222434693,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\Brass1.wav
+619,36.262581945335974,52.005665764514234,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\cc - sremm clap.wav
+620,-34.03070470177559,43.94889162177788,7,Open Hats,./data\London on da Track (Shows the Screen) Drumkit\Open Hats\Sizzle [OH].wav
+621,48.29034914757074,32.54196451307384,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (21).wav
+622,35.21582327456979,48.19424683859907,9,Snares,./data\Chief Keef (Shows the Screen) Drumkit\Snares\KEEF SNARE 10.wav
+623,-12.18148676835464,-13.493824660334942,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (5).wav
+624,-44.6998928738038,31.741766503095445,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\NM - Bucks OH.wav
+625,8.229383628723912,-60.87762393151504,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\TCE Plugg Boy808.wav
+626,22.966757616716343,54.734393807069175,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Cardiak Snare 2 (SNARE).wav
+627,39.33671378389265,32.80696382827435,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\plugg-ballout clap.wav
+628,-74.59340100002446,9.200155374807963,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\YK - Metro HH (Hats)_5.wav
+629,-57.4485950777724,16.49261664022509,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Sticks.wav
+630,38.41899710849421,-45.48869622404692,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\Cassius Jay COokUp 808.wav
+631,-49.80403217121403,42.23226499134029,7,Open Hats,./data\London on da Track (Shows the Screen) Drumkit\Open Hats\DBoyOh_2.wav
+632,-40.22644657980075,41.04149321725466,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\BWZYOh_7.wav
+633,-35.50915322535671,6.088670810349265,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\LINESBEEP_2.wav
+634,70.26662600466808,-15.141605902905255,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\Uzi126_uzi 126_TBP -Kick (On Site)_4.wav
+635,17.746944972394143,4.247209665907222,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (10).wav
+636,5.95267144162896,12.453021697028543,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\Batmans DarkSoul Perc 18_2.wav
+637,-70.605335810805,11.273360151188092,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Glockley Hi Hats  (5).wav
+638,21.17846768992713,-75.86445930702446,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - DogFood 808.wav
+639,7.6962902633891845,-59.54017059847783,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\[ACD] - 808Mafia 808.wav
+640,14.216299876074002,-61.7456832108295,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 33.wav
+641,29.309046315289407,-51.17112178785879,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\BQ_808_trunk.wav
+642,-2.691183913558347,4.57853400493627,5,FX,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\FX\DJ SCRATCH DAATTT.wav
+643,-57.18595909609379,43.71292252371258,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\YCIdkHit.wav
+644,4.737912687538251,-66.8312524436417,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\Metro Boomin' 808 (C).wav
+645,65.87021366971618,-17.360018162059003,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 19.wav
+646,-17.176539813606773,-27.012456815204857,10,Vox,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Vox\Djay!.wav
+647,30.671600560128248,-55.13056973812888,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Goat 808 - Loop.wav
+648,29.84947253566395,-54.61341454436667,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Teapot 808.wav
+649,3.10516027185825,-68.12783983788077,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [6].wav
+650,19.694051416966378,-81.9712206188541,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Terminator 808.wav
+651,43.607242367295086,27.528450591045573,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\2tallCLAPSandSNARES (24).wav
+652,-34.47053762486303,43.39035443174643,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\[ACD] - Lex Hat.wav
+653,26.53735874309912,-58.98103459648694,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\BWB VAULT 808 (Ear Drummers).wav
+654,3.984835616424244,4.63781074448903,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\Snare (808MAFIA!!!!).wav
+655,-35.63383026993241,-17.102520830376072,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\EastSide Perc_2.wav
+656,-32.957196096441045,-8.846096351601615,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (71).wav
+657,15.598661261688472,23.425696062023327,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare 3 (Dirty).wav
+658,-13.898672822560696,-24.373545822683294,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\nm - plankton (taz) vox.wav
+659,28.449916009095777,-48.524654380159525,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 Mafia - Purps 808.wav
+660,-35.11850064056991,-3.9999178697146665,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (38).wav
+661,28.91552317811996,-54.09912808639212,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Pinhead 808.wav
+662,-43.184094630745435,32.25455762810418,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\Open Hat [ Zay ].wav
+663,-8.431022203433493,-24.16938617519186,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\KDOTT.wav
+664,17.351487825676536,-80.59585916749403,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\Deezy Beatz Dj Plugg808_6 - Loop2.wav
+665,-49.16179250900848,19.899689744878167,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Dink Perc.wav
+666,23.24138302465862,-55.062574963910585,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 24.wav
+667,3.9104002663611106,-77.13493778850676,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 8.wav
+668,47.463926986625985,29.405129344952577,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\DY808 Clap.wav
+669,-64.5789530065355,12.526074918074151,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (23).wav
+670,28.54027682250419,43.01372581319145,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\MWMI Snare (10).wav
+671,-81.1780756757209,8.147157236730227,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\HiHat (KillinIt)_2.wav
+672,-40.905979530057046,7.418576017285853,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\DT - Highkey (HH)_2.wav
+673,-37.6516957957472,-17.30111883221467,4,Extras,./data\London on da Track (Shows the Screen) Drumkit\Extras\Pearl De Luna - London Lullaby_5.wav
+674,-38.98526353514077,39.239586306316596,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Perc (2).wav
+675,29.39468842644879,-58.7576447631377,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [29].wav
+676,61.22945960066897,-13.707768415193884,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\KENNY BEATS KICK 48.wav
+677,7.9406335180271235,3.225247768514839,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\-24db__vybe809Tom.wav
+678,48.29507306071899,43.30622507359838,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\nm - clap 1.wav
+679,-41.72498594100663,14.023661032338486,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\T6 Hats18.wav
+680,-62.593402697923075,13.688325583187444,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\BQ_hihat_closed_stick.wav
+681,33.47356004776895,-48.92372983796063,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Geek 808.wav
+682,11.460424749596724,18.924979345287383,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Pyrex Whippa1 [Perc].wav
+683,28.250431904513363,29.959647499830513,1,Claps,./data\London on da Track (Shows the Screen) Drumkit\Claps\Lex Clap.wav
+684,-31.378587026912896,-22.294329676822855,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (84).wav
+685,10.272528265291808,52.50444577343003,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (89).wav
+686,-39.67016469130472,38.12979003169911,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\TBP - Goto OH - Loop_6.wav
+687,30.77161823913637,-60.32500728234286,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\BWB UPGRADE3 COMPRESSED 808 (4).wav
+688,3.5423507399964707,54.9649833017897,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\Official Trap Snares (8).wav
+689,14.052822972841987,-76.87730590835464,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\808 (14).wav
+690,30.35628047913816,-39.49638141772241,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\808_Sanctuary.wav
+691,3.8105040182751995,55.29368130190863,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Trapaholic_Snare.wav
+692,-44.24156280171858,-16.363435009180016,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\FX.wav
+693,16.449514126463715,-78.75642512435314,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\A#_MM - 808 (Kill Them)_2.wav
+694,29.79187340249817,49.5070929552171,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\KENNY BEATS SNARE 21.wav
+695,-44.492692571536686,12.585860088240834,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\LexLugerHiHat.wav
+696,36.86238865797545,52.32842824974207,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Clap (Migos - Bad _ Boujee)_2.wav
+697,32.42269570780531,46.64107812165767,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\TM-88 Snare [Late Night].wav
+698,-72.17042163452892,6.669537739675578,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (40).wav
+699,-47.22238870206205,41.19757539131113,3,Crashes & Cymbals,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Crashes & Cymbals\_BQ_cymbal_icy.wav
+700,22.01628865487095,-76.77978738388352,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\sonny digital 808.wav
+701,30.35598221783188,-39.49696384088607,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\Nick Miras Secret Weapon 808 .wav
+702,35.14912655297885,-46.62122139742993,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_05.wav
+703,-8.236378044200404,2.544153011576342,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\sonnydbell_2.wav
+704,-56.31265233877048,14.597505450088033,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Percs (9).wav
+705,-42.39080776280612,-18.461761788715485,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Kill Bill FX.wav
+706,10.796094920591047,37.219725448057034,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\[ACD] - JohnnyJuliano Snare (3).wav
+707,29.672260472405757,39.402258595570935,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare 11.wav
+708,-4.266517920516336,-22.19503416954139,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\Official Trap Chant (3).wav
+709,16.492914287768023,-1.6272960721643626,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Snap 01.wav
+710,-11.445195237366393,-16.31125398096631,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\Vox (Dillema - Zay).wav
+711,58.62179599226399,-21.173565296581433,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (53).wav
+712,-10.75933730844767,0.6820082772580398,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\Time Clock.wav
+713,48.28215731377417,34.504832486826494,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (25).wav
+714,13.041768653790237,2.983734391449555,8,Percs,./data\Chief Keef (Shows the Screen) Drumkit\Percs\KEEF PERC 9 (Rim).wav
+715,28.464128901280706,31.46675723363982,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\Clap - GlenBabyShit_2.wav
+716,-2.476920505638112,-0.23790674145895113,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\Ducko_clap_14.wav
+717,30.484605645792676,40.66613778313161,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (151).wav
+718,69.50896745732679,-22.930406996467973,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Ass Kick.wav
+719,6.976206373414401,-68.17282812544171,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\BOOMIN_ 808.wav
+720,21.78975989915675,-77.21912506028063,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\808 (4).wav
+721,-51.695874848430456,17.212133755299156,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\nm - pulse oh.wav
+722,16.746473625644953,9.282629117821902,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC (3).wav
+723,17.842620544421784,46.67079558385471,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Ducko_snare_13.wav
+724,12.353577666735662,-71.157825456431,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\TM-88 808s [Mafia].wav
+725,-57.40068610659927,42.62506160878326,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\Dp Beats- Crash (3).wav
+726,17.62943494664993,3.511207285369326,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (21).wav
+727,-6.109234040213321,-24.589943468791816,10,Vox,./data\London on da Track (Shows the Screen) Drumkit\Vox\Vox (London).wav
+728,18.043008974405417,58.09363818206901,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Snare 6.wav
+729,37.57752302641487,32.031606731112156,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\Clapp - Bout It Snare.wav
+730,-12.835963565301885,-24.394844433341916,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - Chainz Vox.wav
+731,68.53020876811848,-10.378522826640644,6,Kicks,./data\Glockley (Shows The Screen) Drumkit\Kicks\Kick (1).wav
+732,-49.48878566509392,18.759148511531745,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Hi (Wonda-1).wav
+733,64.01041851904972,-27.541417095941707,6,Kicks,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Kicks\Kick (C-Note).wav
+734,-17.696043147696358,6.483498435778908,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Triangle_Open.wav
+735,-55.07591017010034,14.821977717044815,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_20.wav
+736,-10.566409453539638,-13.820926508300255,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_22.wav
+737,13.118503428493279,-59.85777319503348,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\BWB VAULT 808 (Fki).wav
+738,-75.42739290323458,15.734777216337848,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\HiHat (Lies).wav
+739,-26.906353595656206,-13.393620766204506,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Zaytoven Hats n Perc) (6).wav
+740,-35.41251679697927,-5.6996452721020905,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Loop (5).wav
+741,-47.53162494160184,30.86836480584012,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\NM - Blixky OH.wav
+742,-17.678923515414922,5.521598371268493,8,Percs,./data\Chief Keef (Shows the Screen) Drumkit\Percs\KEEF PERC 1 (Triangle).wav
+743,20.87424600395752,48.418562311299695,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BQ_snare_short.wav
+744,30.087998774487932,-61.105843617076594,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\BQ_808_saturated.wav
+745,-66.93815530448511,10.259388531722669,2,Closed Hats,./data\London on da Track (Shows the Screen) Drumkit\Closed Hats\HIHAT1.wav
+746,-82.14700899221656,7.521423160828718,2,Closed Hats,./data\Chief Keef (Shows the Screen) Drumkit\Closed Hats\Hi Hat 5.wav
+747,5.68614026127169,-68.52131570802062,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [21].wav
+748,8.968252029649669,54.126972604532206,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Lex Snare.wav
+749,-37.9011428490826,5.130455422274172,4,Extras,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Extras\Inst 2_2.wav
+750,51.29899767276989,28.981375543607996,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (55).wav
+751,49.52067573516093,30.2123556532252,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\Metro Boomin_ Clap (1).wav
+752,-38.38841347975215,2.126166179853604,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (15).wav
+753,-48.61343318570558,43.9760481426706,7,Open Hats,./data\Glockley (Shows The Screen) Drumkit\Open Hats\Lex Luger Open Hat.wav
+754,-80.88131608870768,10.609257726332316,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Sledgren x Deedotwill Hat (7).wav
+755,31.09249616017811,-38.47082635969077,0,808s,./data\Chief Keef (Shows the Screen) Drumkit\808s\808 6.wav
+756,6.994251279573044,-64.49213864958108,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\MZ 808 [Bring It Back - C].wav
+757,-77.96915870674606,16.206237788568913,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Hat_Closed_09.wav
+758,-17.55885941210203,1.631155668837935,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\MZ Shaker [Zaytoven Shaker #1].wav
+759,-28.555540840016622,-17.42501199152786,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\808 Mafia - TM88 Effect.wav
+760,16.59603015484323,8.098430084070978,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (138).wav
+761,-3.490313087357772,9.500310334975524,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Glockley Snares (6).wav
+762,19.032656735274074,47.87324209807368,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BQ_snare_crispy.wav
+763,-56.55637428629297,45.57072803459734,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\EC - Keef [Crash].wav
+764,6.415339534171322,46.529336456284966,9,Snares,./data\Chief Keef (Shows the Screen) Drumkit\Snares\Dp Beats- Snare(13).wav
+765,-32.133724930613184,-2.785416128928402,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 21.wav
+766,-39.71115890860597,7.1020114714228315,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - Queso HH.wav
+767,11.906539465344643,-76.25075662843942,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\[ACD] - Lex 808 (2).wav
+768,-34.75281871991441,3.588733132875118,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 45.wav
+769,-12.589660967292224,-15.552012767561047,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\The plugg robot saying aaaaaaah.wav
+770,-42.650440159602525,-18.694178965083097,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\[ACD] - KillBill FX_5.wav
+771,-80.33905996320424,16.90150585629384,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\LEX Hat(6).wav
+772,14.505421632228149,-68.67710660556715,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\DJ SPINZ 808 (THIS IS THE BEST ONE).wav
+773,29.01073332027013,-58.73337646913264,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 29.wav
+774,-35.90179274342899,40.33772572754832,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\Pers (12).wav
+775,21.753755378685767,56.54775351540467,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Glockley Snares (3).wav
+776,32.42271412252339,46.64122981378302,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\KENNY BEATS CLAP 26.wav
+777,7.905700608124161,18.594565734297458,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\KENNY BEATS CLAP 25.wav
+778,16.829185812033273,45.39998540366794,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Southside Snare (3).wav
+779,68.55282886335387,-22.65328561498311,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Rack Kick3.wav
+780,11.972991828967182,-67.19117415728293,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\BIG WHITE KICK 17.wav
+781,10.867891731265969,19.959241252131697,8,Percs,./data\London on da Track (Shows the Screen) Drumkit\Percs\Fye Perc.wav
+782,13.93721325463411,2.3958654265947614,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 51.wav
+783,-35.6746846432574,-7.149347967454112,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\NM - Sirens FX.wav
+784,27.40159412854935,-62.18274414897619,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 32.wav
+785,-30.642335092618644,-26.391693738391965,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (8).wav
+786,28.08791556407067,50.6307082098607,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\plugg-bloody jay clap.wav
+787,7.459528324753409,-70.71550806185728,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\C_DXB Rixos 808_2.wav
+788,36.67388885941784,-48.279716485571925,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 6.wav
+789,-82.90466207304296,8.228812035100177,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Hi Hat (34).wav
+790,13.316893257897695,22.94302838514967,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - Breaking Bad Snare_2.wav
+791,12.406587040881739,21.431965481438343,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Ducko_snare_26.wav
+792,51.657085544694624,31.412767033926112,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (97).wav
+793,50.591648733052125,44.37377542584456,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\REX CLAP #1.wav
+794,18.17728278088822,-79.14817926203048,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\Question808_YC.wav
+795,-3.337436515695433,1.2640894939179192,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\Ducko_clap_12.wav
+796,-3.679457718703121,5.389616211530215,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 19.wav
+797,-36.1827849138689,-1.6209734616251856,4,Extras,./data\Kenny Beats (Shows the Screen) Drumkit\Extras\SawBass.wav
+798,33.40623681650433,31.327325500770538,1,Claps,./data\Chief Keef (Shows the Screen) Drumkit\Claps\Dp Beats- Clap (3).wav
+799,12.334812584534696,46.519003187875406,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\TCE TM88 Sayshit.wav
+800,44.29687783865338,26.542050239270186,1,Claps,./data\London on da Track (Shows the Screen) Drumkit\Claps\DDB Clap 2.wav
+801,14.216303058248641,-61.745724544401305,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 8.wav
+802,20.184653575918666,29.27814339843336,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Metro Boomin Snare (3).wav
+803,37.73876947672308,30.34621293876543,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\CaHitz Bay Clap.wav
+804,-25.151664489945738,-29.85307829956615,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\sms-received1_2.wav
+805,-39.63787206697861,44.34160429980374,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\Metro Open Hat 2.wav
+806,14.107958311317386,21.840646359193414,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\Skrillex OLD justice snare.wav
+807,19.47333965129767,30.072531270360443,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\Snare - BreakDaLaw.wav
+808,29.14920449407987,-59.04609304266738,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS 808 12.wav
+809,-81.01397036919683,13.710732337077902,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Boominati Hi-hat 3.wav
+810,36.59844510244975,48.64621170970049,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Snare_04.wav
+811,-26.286416779460588,-23.73364777640994,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\nm - fx_autobahn.wav
+812,-81.95552352677242,15.680017026895092,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\BQ_hihat_closed_woosh.wav
+813,-53.20258207567136,16.249980284422804,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Hi Hat Sauce.wav
+814,32.01242803434606,45.67231053317929,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (109).wav
+815,17.016437370322087,-79.38268461023264,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Boomin808.wav
+816,32.97764587788842,-50.03103514178594,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [14].wav
+817,-14.276189245317127,-19.492837731867013,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\KENNY BEATS FX 38.wav
+818,-43.40807431152097,35.122799910223875,7,Open Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Open Hats\Slowthai - The Cave Open Hat.wav
+819,-56.27713796513148,42.69280203034246,3,Crashes & Cymbals,./data\Chief Keef (Shows the Screen) Drumkit\Crashes & Cymbals\DP_crash_05.wav
+820,6.21558687893414,18.68821004472952,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\LEX_LUGER_snare_tmoglg.wav
+821,8.449309770519756,42.39399557190219,9,Snares,./data\Chief Keef (Shows the Screen) Drumkit\Snares\Sanre (2).wav
+822,-48.756652731718965,24.3058313523905,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Ducko_hihat_09.wav
+823,-5.418628377016856,7.0021653865429645,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\The Stomp used in every episode.wav
+824,18.29320966477808,9.014543170677625,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (11).wav
+825,-75.50710620939944,9.587639458471664,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 2.wav
+826,-12.219876246764898,5.4966820448418865,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\nm - scrape perc.wav
+827,18.11153772576141,7.331786904276362,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot_ 11.wav
+828,27.49881603108748,34.93242393888383,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\SNARE_MICHAEL.wav
+829,-70.40211188942754,9.637733624452055,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\[ACD] - Sizzle HiHat.wav
+830,-49.63761560997547,30.665739585624415,5,FX,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\FX\nm - scan fx.wav
+831,-39.89366979196754,39.97469608223361,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\BQ_hihat_open_steel.wav
+832,38.18779819912803,50.315042136659315,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (92).wav
+833,19.548715842669644,54.907693936307965,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Luger Snare.wav
+834,-42.04944877597782,-17.615090398443513,10,Vox,./data\London on da Track (Shows the Screen) Drumkit\Vox\London Vox.wav
+835,-39.04519830487331,9.522130382400727,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\NM - Athena OH.wav
+836,60.72374674007655,-27.193695374349243,6,Kicks,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Kicks\Kick (2).wav
+837,15.032692050345702,-69.07259502995132,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\808 (15).wav
+838,-11.433231964446318,-13.074797782696754,10,Vox,./data\Kenny Beats (Shows the Screen) Drumkit\Vox\skrillex vox.wav
+839,38.93512090037918,31.99352902991704,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\[ET] Basic Snare_2.wav
+840,10.070613155777044,-75.86577633110288,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 (Spinz Dist).wav
+841,15.163688321958125,-64.04861622287078,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\KENNY BEATS VALENTINE 39.wav
+842,-41.088006784909375,46.95416883820763,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Ducko_hihat_13.wav
+843,-27.55596611722075,-20.691252973739658,8,Percs,./data\London on da Track (Shows the Screen) Drumkit\Percs\Stoopid Monkey Perc.wav
+844,-53.73115542679151,43.58827004820398,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\vybe - KDot.wav
+845,13.138695127764132,-63.267512127343956,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Midnight 808.wav
+846,7.554374698692672,54.88101704495822,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - Jackboys SN.wav
+847,30.399104367115463,28.541195743769272,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - Mulan SN.wav
+848,24.992277985444584,46.281416357050254,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\[Snr] Faithful YNG.wav
+849,-7.204138969873037,4.1219198499060745,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\Ducko_drum_loop_sampled_01.wav
+850,5.4658802005372165,-79.08379431088267,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\Glockley 808s (5).wav
+851,-43.04119483164032,30.84422634702021,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\BQ_percussion_triangle.wav
+852,-80.78111809753247,10.785888905914268,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\Hi Hat [ Deedot ].wav
+853,62.76824433773229,-16.94515921880095,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\BWZYKik_1.wav
+854,29.4343478701534,46.73718781980787,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - Tupper Snare.wav
+855,-31.99510021901949,-25.26204217436346,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\NM - Fantasy (Vox).wav
+856,-13.7138584453767,-19.950748434858923,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\nm - vox_shrek.wav
+857,-5.716898377755588,-23.420075235308754,10,Vox,./data\London on da Track (Shows the Screen) Drumkit\Vox\4LX Vox 41.wav
+858,17.339115224865715,56.53241068344527,9,Snares,./data\Kenny Beats (Shows the Screen) Drumkit\Snares\5 - Snaree - Pyrex .wav
+859,-62.142042600168686,13.327543764709421,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\BQ_hihat_closed_stick.wav
+860,20.53921846691971,5.151857646713498,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\BQ_percussion_hand.wav
+861,68.7653007035557,-23.48595413568345,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\Kick 1.wav
+862,-15.202748177256469,3.023379131674117,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 18.wav
+863,17.646306249113064,33.695851957670875,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\SizzSnr1.wav
+864,27.323010035420406,32.737635126619,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Trapaholic Clap (7).wav
+865,14.276575568923729,5.381627636881458,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Snare (14).wav
+866,69.41866651718179,-23.80029341632179,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\808 mafia kick.wav
+867,33.72517310914356,51.03316493759504,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\MZ Clap [Metro].wav
+868,51.8797721013437,29.230484550411905,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Clp (Pyrex).WAV
+869,-37.416647482909944,41.98575525687376,7,Open Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Open Hats\Lex Open Hat (1).wav
+870,-27.012743947636775,-34.79758114133996,4,Extras,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Extras\Zaytoven Sound (99).wav
+871,-25.175955077503982,-12.554616568453165,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 3.wav
+872,9.523804096918019,17.0444818035474,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - Crooks Perc.wav
+873,-38.56401159873197,7.273461269158905,3,Crashes & Cymbals,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Crashes & Cymbals\Ducko_cymbal_crash_reverse_01.wav
+874,-71.45929044065124,9.489331252519836,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\hh [cardiak].wav
+875,65.00124754444684,-23.1568286432695,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\Kick (Beef)_2.wav
+876,-24.17250683653365,-35.98498187983335,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (26).wav
+877,6.943020099227091,54.47409443229223,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (105).wav
+878,5.779975259912526,2.3904749693745173,9,Snares,./data\Chief Keef (Shows the Screen) Drumkit\Snares\KEEF SNARE 6 (Filter).wav
+879,-41.19631745750428,44.99927225241266,7,Open Hats,./data\Glockley (Shows The Screen) Drumkit\Open Hats\Glockley Open Hats  (3).wav
+880,-44.49628981800369,12.763477640240458,2,Closed Hats,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Closed Hats\HiHat (Block).wav
+881,3.4529191977519305,48.8500287904054,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BQ_snare_tight.wav
+882,18.080793581306697,7.001962029120113,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\MZ Rim [Sizzle].wav
+883,15.163803756178861,-64.04943559140693,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [39].wav
+884,-20.96139013302339,-14.150878149512216,8,Percs,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Percs\Ducko_percussion_loop_hi_tech.wav
+885,-37.231052765374294,1.8683697958849492,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\LexLugerFX.wav
+886,12.275480553192198,-64.10474433308539,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\BWB X NEENYO 808 (7).wav
+887,10.247121931640226,-76.56982302451172,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\808 (TM-Will).wav
+888,38.59578578981829,30.340884836721774,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\nm - godsmack clap.wav
+889,11.505071205336385,48.86607468363027,9,Snares,./data\London on da Track (Shows the Screen) Drumkit\Snares\[snare] (1)london.wav
+890,47.389133055678975,28.393437228172434,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\25 - Clap [LCJ]_2.wav
+891,-26.55288458002377,-10.585147897986088,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Ducko_hihat_21.wav
+892,46.5304917190478,30.03665152528725,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\DJ Esco Clap.wav
+893,-56.33589002648386,43.73694271956324,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\dragged_sample_crash_1_1.wav
+894,-77.49615977810221,16.54500015936335,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\Metro CL Hat 3 - Tempo 120.0_3.wav
+895,-59.19299223999862,16.94754176831686,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Tambourine.wav
+896,14.636229010194555,-61.05504509834506,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Inside The Mattress 808.wav
+897,28.794196497643117,44.591405115833446,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\MZ Snareclap [MikeWill #3].wav
+898,6.755234060759849,7.888582637333295,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\REX RIM #5.wav
+899,26.61794748167956,-52.71374314058257,0,808s,./data\Chief Keef (Shows the Screen) Drumkit\808s\808 (3) Dp Beats.wav
+900,30.61487253807155,-40.00376622924719,0,808s,./data\Glockley (Shows The Screen) Drumkit\808s\808  (5).wav
+901,-37.82148825155773,1.4493615366579577,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\LexLugerFX_2.wav
+902,51.1778596429079,27.90957320937186,1,Claps,./data\Chief Keef (Shows the Screen) Drumkit\Claps\Clap 5.wav
+903,66.48772307064337,-26.081849488540772,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\Kick (TDE).wav
+904,62.530230247157824,-29.070981081810288,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\plugg-spinz kick.wav
+905,18.980755761442776,48.41253676752186,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\Ducko_snare_23.wav
+906,6.586481938575463,2.473715268779145,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\!Roland TR-707 Snare Drum 1_2 61%.wav
+907,-18.208485706363362,1.0946487610123505,8,Percs,./data\Chief Keef (Shows the Screen) Drumkit\Percs\Perc 2.wav
+908,5.052732331639316,18.649464412464077,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\yn - tornado (clap).wav
+909,-41.559894774174765,-18.270337958231757,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\808 Mafia - Kill Bill FX 2.wav
+910,4.0826614495725,2.7100262982865475,8,Percs,./data\Kenny Beats (Shows the Screen) Drumkit\Percs\KENNY BEATS PERC 33.wav
+911,50.59182835239893,44.37255905510844,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\Clap [ Plugg ].wav
+912,64.57008526879417,-23.080583756767606,6,Kicks,./data\Glockley (Shows The Screen) Drumkit\Kicks\Glockley Kicks  (3).wav
+913,-33.455160777616946,-25.250043543529944,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\808 Mafia Kill Bill Siren (New).wav
+914,16.893732653438025,44.16733158351593,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\nm - zo snare.wav
+915,-2.1450528337214525,-23.67530626247753,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\ZayChant.wav
+916,17.99627465570371,29.410579574278778,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Hussein Snare 10.wav
+917,-15.666446050861477,-19.475132580287355,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\FX (13).wav
+918,20.325664838718932,6.50516210994707,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BWB [WAVE 2] SNARE (3).wav
+919,71.10571494061787,-14.260312032234316,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - Jumper Kick.wav
+920,19.3888087720433,-71.50233653997124,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Audi 2 808.wav
+921,70.12301340771428,-10.150590004525698,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - Frosty Kick_2.wav
+922,10.002929167435685,-58.65481895077064,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [11].wav
+923,10.227265718689534,50.03185697716596,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Original Trap Snare 2k18.wav
+924,-32.590881235736646,-31.040108416707817,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (40).wav
+925,36.86066721891832,51.42135557071922,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\sidepce - silver snare_2.wav
+926,3.4140869050235336,55.397575817139796,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BOOMIN CLASSIC TRAP HOUSE SNARE 1_2.wav
+927,-38.9235732131948,46.89783217095171,7,Open Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Open Hats\TBP - OH (Durwty)_5 - Loop_2.wav
+928,11.286416270440732,34.7545753261268,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\BQ_snare_slapback.wav
+929,-38.71703434484625,11.795694410454631,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\Cxdy - Fortune (PL).wav
+930,18.489324640999815,55.082671561848784,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Trapaholic Snare (6).wav
+931,-2.7763061855079254,0.5854854460355945,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\TM88 Clap.wav
+932,63.141546358482096,-21.328389253010215,6,Kicks,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Kicks\NM - ADHD Kick.wav
+933,59.311746337735194,-19.21417650760406,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\CB_Kick.wav
+934,5.663563072598765,-69.3767111986156,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\me n chopsquad dj 808.wav
+935,14.141402790700013,6.660162847634975,9,Snares,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Snares\[AP] Snare ( Metro ).wav
+936,-11.810170695822118,-19.897482078985103,10,Vox,./data\Kenny Beats (Shows the Screen) Drumkit\Vox\Vox - Dog bark.wav
+937,13.081318814035871,-61.04628895344661,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\TM88 FuseDist808.wav
+938,-33.59118376958864,-30.477018319451282,4,Extras,./data\Kenny Beats (Shows the Screen) Drumkit\Extras\PUNK 170BPM.wav
+939,19.14069416352302,-81.01617129194231,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\TCE SonDigital Bass 3.wav
+940,-35.59992779857917,-6.762599464576131,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (61).wav
+941,19.337919837650112,-80.19752102705752,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Phelps 808.wav
+942,49.67877056627415,35.32255114540657,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\NM - Ref Clap.wav
+943,55.84737540297666,-23.19533652088082,6,Kicks,./data\Kenny Beats (Shows the Screen) Drumkit\Kicks\Kenny.wav
+944,20.731229669208766,50.59295255354908,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Glockley Snares (1).wav
+945,34.79686644745505,50.44715366663202,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\YCSizzleClapSnare.wav
+946,-30.56512753245385,-12.041152316021552,5,FX,./data\Kenny Beats (Shows the Screen) Drumkit\FX\THPS1_Tape_2.wav
+947,-63.89763833889154,11.143298388599508,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Sonny Digital Hi Hat.wav
+948,39.194125375961924,52.83462116016824,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\CLAP [ HELL ].wav
+949,28.878814482000568,53.41025910765502,9,Snares,./data\Glockley (Shows The Screen) Drumkit\Snares\Snare 11.wav
+950,-77.10020125139155,14.08579152982711,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Glockley Hi Hat.wav
+951,29.640566071564947,31.90253555268116,1,Claps,./data\Kenny Beats (Shows the Screen) Drumkit\Claps\KENNY BEATS CLAP 6.wav
+952,17.055232528832438,-67.10320783776267,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Ritual (808).wav
+953,24.79995288202608,46.43384400456151,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\[Snr] Faithful YNG .wav
+954,-26.08477329479988,-29.12915176685659,10,Vox,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Vox\nm - finalboss taz vox.wav
+955,-31.591658397115157,-2.642616812445907,4,Extras,"./data\Kenny Beats (Shows the Screen) Drumkit\Extras\John Dankworth 'Bernie's Tune', ''Off Duty!'' ~ BPM 86.wav"
+956,26.759152698659484,-58.68497498842043,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\up 808.wav
+957,14.072172536606502,-79.80211585576082,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\808 (Kingpin) - Loop 3.wav
+958,48.20933697781239,44.65449725299023,1,Claps,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Claps\nm - remote clap.wav
+959,20.049886405400397,2.4936205432583267,8,Percs,./data\Glockley (Shows The Screen) Drumkit\Percs\Rimshot  (45).wav
+960,27.560268361749003,50.81221054848183,1,Claps,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Claps\MZ Snareclap [MikeWill #1].wav
+961,-1.9392060681064212,6.204735186363977,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\SA Clap 1.wav
+962,-76.91148823254436,10.071488952207014,2,Closed Hats,./data\Glockley (Shows The Screen) Drumkit\Closed Hats\Glockley Hi Hats  (10).wav
+963,-14.503982041191032,-24.169810924464855,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\TM-88 FX [UFO].wav
+964,8.723932604185691,20.66224676221209,8,Percs,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Percs\NM - River Perc_2.wav
+965,37.94899960583741,34.250977829511136,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\ZayClp.wav
+966,5.288283353016554,5.001496073760436,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\BWB [WAVE 2] PERC (14).wav
+967,-40.4435347472174,13.287407803003417,8,Percs,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Percs\Perc_Triangle_4.wav
+968,-80.56588495255068,15.514686642461829,2,Closed Hats,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Closed Hats\Ducko_hihat_22.wav
+969,-30.71120955564977,-31.550843341262794,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\TM-88 FX [Scary 2].wav
+970,61.24268142165153,-28.44584256962946,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\zay drop kick.wav
+971,47.708609634665905,42.653720060782646,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Clap_1_3.wav
+972,45.33443346641183,34.52054313591029,1,Claps,./data\Glockley (Shows The Screen) Drumkit\Claps\Clap + Snare (12).wav
+973,-76.84094378542052,16.389607660100616,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\DP_closed_hihat_7.wav
+974,26.765799942056052,-67.05943141148896,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\Hardass Sub.wav
+975,10.127560883312272,53.46766341697831,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare ( 5 ).wav
+976,28.523179897378782,-67.90180493566496,0,808s,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\808s\Ducko_808_04.wav
+977,3.5981658758113877,48.493146188430565,9,Snares,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Snares\Snare 002.wav
+978,-75.40556211042896,18.335860897983874,2,Closed Hats,./data\Kenny Beats (Shows the Screen) Drumkit\Closed Hats\KENNY BEATS HI HAT 15.wav
+979,21.72417260446056,-56.122672989526826,0,808s,./data\London on da Track (Shows the Screen) Drumkit\808s\Zaytiggy.wav
+980,20.309930642153375,-56.545621471356846,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\NM - Vendetta 808.wav
+981,-36.407217504170774,0.23968803350973183,4,Extras,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Extras\fye brass.wav
+982,6.710597829622381,-75.25853266432667,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [9].wav
+983,-3.7779739928159137,-22.895098170273187,10,Vox,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Vox\Vox (OG-Breath).wav
+984,-12.819026850495606,1.1396521624782356,5,FX,./data\Everyone in 808 Mafia (Shows the Screen) Kit\FX\BQ_bell_hyrule.wav
+985,-51.657313313506975,42.825893448451126,3,Crashes & Cymbals,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Crashes & Cymbals\Ducko_cymbal_crash_04.wav
+986,67.54332176847811,-20.187836434761778,6,Kicks,./data\London on da Track (Shows the Screen) Drumkit\Kicks\TBP - Kick (London) - Loop - Loop.wav
+987,21.574323081263294,-60.812729666812416,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\SouthSide 808 (9).wav
+988,-24.573955582868813,-30.97599911735487,4,Extras,./data\Mike Will Made It & Eardrummers (Shows the Screen) Drumkit\Extras\3_140Bpm.wav
+989,29.54618364017302,-52.642308525980226,0,808s,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\808s\Metro 808_1.wav
+990,61.21470686532958,-27.711943595215462,6,Kicks,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Kicks\SizzKick1.wav
+991,-35.810958306671424,-20.71558343827463,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\Glockley Sample (89).wav
+992,4.8010070272218375,9.350591927728859,2,Closed Hats,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Closed Hats\NM - Astro HH.wav
+993,-4.492801149167053,5.829710683978871,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\NM - Prosper Snare.wav
+994,4.717323667834139,45.68003910508971,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\Sn (Saucy)_2.wav
+995,-35.63053415607901,-2.7109433156141645,4,Extras,./data\Glockley (Shows The Screen) Drumkit\Extras\sample (29).wav
+996,13.845239714312639,-64.58174370747852,0,808s,./data\Everyone in 808 Mafia (Shows the Screen) Kit\808s\DEEDOTWILL 808 99.wav
+997,15.7281095581256,-66.89956580916459,0,808s,./data\Kenny Beats (Shows the Screen) Drumkit\808s\808 [2].wav
+998,49.36642433551886,32.166746931184356,1,Claps,./data\Everyone in 808 Mafia (Shows the Screen) Kit\Claps\TM-88 Claps [Metro X TM-88].wav
+999,5.58111715181399,51.668090765813716,9,Snares,./data\Nick Mira (Shows the Screen) Drumkit Re-Up to respect DMCA\Snares\I Be Puttin On Snare2_2.wav

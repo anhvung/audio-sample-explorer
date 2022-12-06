@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<style type="text/css">
+	div.tooltip-donut {
+		position: absolute;
+		text-align: center;
+		padding: .1rem;
+		background: #FFFFFF;
+		color: #313639;
+		border: 1px solid #313639;
+		border-radius: 6px;
+		pointer-events: none;
+		font-size: 0.8rem;
+	}
+</style>
+<head>
+	<meta charset="utf-8">
+	<title>project</title>
+	<script src="https://d3js.org/d3.v7.js"></script>  <!-- link to D3 library -->
+
+	<style type="text/css">
+		h1 {color:red;}		/* CSS styling */
+		p {color:blue;}
+	</style>
+
+</head>
+
+<body>
+
+	<h3 style="font-family: Palatino;">title</h3>
+	<p>paragraph</p>
+	<audio id='myaudio' controls>
+	  <source id="audioSource" src="" type="audio/wav">
+	  
+	Your browser does not support the audio element.
+	</audio>
+
+	<div id="my_dataviz"></div>
+	<script>
+
+		var div = d3.select("body").append("div")
+		.attr("class", "tooltip-donut")
+		.style("opacity", 0);
+
+
+// set the dimensions and margins of the graph
+const margin = {top: 10, right: 30, bottom: 30, left: 60},
+width = 1100 - margin.left - margin.right,
+height = 900 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+const svg = d3.select("#my_dataviz")
+.append("svg")
+.attr("width", width + margin.left + margin.right)
+.attr("height", height + margin.top + margin.bottom)
+.append("g")
+.attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+//Read the data
+d3.csv("tsne_data.csv").then( function(data) {
+	const myColor = d3.scaleLinear()
+	.domain(d3.extent(data, function(d) { return d.label_num; }))
+	.range(["red", "green"])
+
+    // Add X axis
+    const x = d3.scaleLinear()
+    .domain([-85,80])
+    .range([ 0, width ]);
+    svg.append("g")
+    //.attr("transform", `translate(0, ${height})`)
+    //.call(d3.axisBottom(x));
+
+    // Add Y axis
+    const y = d3.scaleLinear()
+    .domain([-85,70])
+    .range([ height, 0]);
+    //svg.append("g")
+    //.call(d3.axisLeft(y));
+
+    // Add dots
+    svg.append('g')
+    .selectAll("dot")
+    .data(data)
+    .join("circle")
+    .attr("cx", function (d) { return x(d.x); } )
+    .attr("cy", function (d) { return y(d.y); } )
+    .attr("r", 2)
+    .style("fill",  function(d) {
+    //Get data value
+    var value = d.label_num;
+    if (value) {
+      //If value exists…
+      return myColor(value);
+  } else {
+      //If value is undefined…
+      return "#ccc";
+  }
+})
+    .on("mouseover", function(event,d,i) {
+    	console.log(d.label_name);
+    	d3.select(this).attr("r", 5);
+    	div.transition()
+    	.duration('50').style("opacity", 1);
+    	let num = d.label_name;
+    	div.html(num)
+    	.style("left", (event.pageX + 10) + "px")
+    	.style("top", (event.pageY - 15) + "px");
+    	  
+		  var audio = document.getElementById('myaudio');
+
+		  var source = document.getElementById('audioSource');
+		  source.src = d.path;
+
+		  audio.load(); //call this to just preload the audio without playing
+		  audio.play(); //call this to play the song right away
+    })                  
+    .on("mouseout", function(d) {
+    	d3.select(this).attr("r", 2);
+    	div.transition()
+    	.duration('50').style("opacity", 0);
+    });
+
+
+})
+</script>
+
+</body>
+
+</html>
