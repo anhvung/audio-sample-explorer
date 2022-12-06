@@ -47,7 +47,9 @@
 const margin = {top: 10, right: 30, bottom: 30, left: 60},
 width = 1100 - margin.left - margin.right,
 height = 900 - margin.top - margin.bottom;
-
+//['808s','Claps','Closed Hats','Crashes & Cymbals','Extras','FX','Kicks','Open Hats','Percs','Snares','Vox']
+const color_map={'808s':'#4287f5',
+'Claps':'#f54242','Closed Hats':'#f59042','Crashes & Cymbals':'#f5e042','Extras':'#3dba46','FX':'#00db9d','Kicks':'#6642f5','Open Hats':'#a742f5','Percs':'#f542ec','Snares':'#3d9160','Vox':'#3d6091'}
 // append the svg object to the body of the page
 const svg = d3.select("#my_dataviz")
 .append("svg")
@@ -84,13 +86,13 @@ d3.csv("tsne_data.csv").then( function(data) {
     .join("circle")
     .attr("cx", function (d) { return x(d.x); } )
     .attr("cy", function (d) { return y(d.y); } )
-    .attr("r", 2)
+    .attr("r", 2.5)
     .style("fill",  function(d) {
     //Get data value
-    var value = d.label_num;
+    var value = d.label_name;
     if (value) {
       //If value exists…
-      return myColor(value);
+      return color_map[value];
   } else {
       //If value is undefined…
       return "#ccc";
@@ -115,13 +117,18 @@ d3.csv("tsne_data.csv").then( function(data) {
 		  audio.play(); //call this to play the song right away
     })                  
     .on("mouseout", function(d) {
-    	d3.select(this).attr("r", 2);
+    	d3.select(this).attr("r", 2.5);
     	div.transition()
     	.duration('50').style("opacity", 0);
     });
 
 
 })
+
+// colors
+// display sample name
+// neighbor color
+// more data 
 </script>
 
 </body>
