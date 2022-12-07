@@ -64,7 +64,8 @@ p{
 			.attr("class", "tooltip-donut")
 			.style("opacity", 0);
 
-
+const POINT_SIZE = 2.75;
+const ZOOM_RATIO = 3;
 // set the dimensions and margins of the graph
 const margin = {top: 10, right: 30, bottom: 30, left: 60},
 width = 1100 - margin.left - margin.right,
@@ -109,7 +110,7 @@ d3.csv("tsne_data_bis.csv").then( function(data) {
     .join("circle")
     .attr("cx", function (d) { return x(d.x); } )
     .attr("cy", function (d) { return y(d.y); } )
-    .attr("r", 2.5)
+    .attr("r", POINT_SIZE)
     .style("fill",  function(d) {
     //Get data value
     var value = d.label_name;
@@ -123,7 +124,7 @@ d3.csv("tsne_data_bis.csv").then( function(data) {
 })
     .on("mouseover", function(event,d,i) {
     	
-    	d3.select(this).attr("r", 5);
+    	d3.select(this).attr("r", POINT_SIZE*ZOOM_RATIO);
     	div.transition()
     	.duration('200').style("opacity", 1);
     	
@@ -141,7 +142,7 @@ d3.csv("tsne_data_bis.csv").then( function(data) {
 		  audio.play(); //call this to play the song right away
 		})                  
     .on("mouseout", function(d) {
-    	d3.select(this).attr("r", 2.5);
+    	d3.select(this).attr("r", POINT_SIZE);
     	div.transition()
     	.duration('50').style("opacity", 0);
     })
