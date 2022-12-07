@@ -14,11 +14,16 @@
 	}
 
 	.space_div div {
-    border: thin solid black;
+    border-color: #262626;
+    border-width: 1em;
+    background-color:#1f1f1f;
 }
 	.aParent div {
     float: left;
     clear: none; 
+}
+p{
+	color: white;
 }
 </style>
 <head>
@@ -33,9 +38,9 @@
 
 </head>
 
-<body>
-	<p  style="color:black">Preview</p>
-	<audio id='myaudio' controls>
+<body style="background-color:#292828;">
+	<p  style="color:white">Preview</p>
+	<audio id='myaudio' controls style='margin-bottom: 10px;'>
 		<source id="audioSource" src="" type="audio/wav">
 
 			Your browser does not support the audio element.
@@ -45,7 +50,7 @@
 			<div  id="my_dataviz" ></div>
 			</div>
 			<div style='margin-left:10px ;'>
-				<p id='p_closest' style="color:black"></p>
+				<p id='p_closest' style="color:white"></p>
 				<div id="closest"></div>
 			</div>
 		</div>
@@ -191,5 +196,10 @@ d3.csv("tsne_data_bis.csv").then( function(data) {
 </script>
 
 </body>
-
+<style type="text/css">
+	
+p{
+	color: white;
+}
+</style>
 </html>
