@@ -12,6 +12,14 @@
 		pointer-events: none;
 		font-size: 0.8rem;
 	}
+
+	.space_div div {
+    border: thin solid black;
+}
+	.aParent div {
+    float: left;
+    clear: none; 
+}
 </style>
 <head>
 	<meta charset="utf-8">
@@ -26,21 +34,30 @@
 </head>
 
 <body>
-
-	<h3 style="font-family: Palatino;">title</h3>
-	<p>paragraph</p>
+	<p  style="color:black">Preview</p>
 	<audio id='myaudio' controls>
-	  <source id="audioSource" src="" type="audio/wav">
-	  
-	Your browser does not support the audio element.
-	</audio>
+		<source id="audioSource" src="" type="audio/wav">
 
-	<div id="my_dataviz"></div>
-	<script>
-
-		var div = d3.select("body").append("div")
-		.attr("class", "tooltip-donut")
-		.style("opacity", 0);
+			Your browser does not support the audio element.
+		</audio>
+		<div class='aParent' >
+			<div class="space_div">
+			<div  id="my_dataviz" ></div>
+			</div>
+			<div style='margin-left:10px ;'>
+				<p id='p_closest' style="color:black"></p>
+				<div id="closest"></div>
+			</div>
+		</div>
+		
+		
+		<script>
+			var splitTest = function (str) {
+				return str.split('\\').pop().split('/').pop();
+			}
+			var div = d3.select("body").append("div")
+			.attr("class", "tooltip-donut")
+			.style("opacity", 0);
 
 
 // set the dimensions and margins of the graph
@@ -59,14 +76,15 @@ const svg = d3.select("#my_dataviz")
 .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 //Read the data
-d3.csv("tsne_data.csv").then( function(data) {
-	const myColor = d3.scaleLinear()
-	.domain(d3.extent(data, function(d) { return d.label_num; }))
-	.range(["red", "green"])
+d3.csv("tsne_data_bis.csv").then( function(data) {
 
+	var x_max = d3.max(data, function(d) { return +d.x;} );
+	var x_min = d3.min(data, function(d) { return +d.x;} );
+	var y_max = d3.max(data, function(d) { return +d.y;} );
+	var y_min = d3.min(data, function(d) { return +d.y;} );
     // Add X axis
     const x = d3.scaleLinear()
-    .domain([-85,80])
+    .domain([x_min,x_max])
     .range([ 0, width ]);
     svg.append("g")
     //.attr("transform", `translate(0, ${height})`)
@@ -74,7 +92,7 @@ d3.csv("tsne_data.csv").then( function(data) {
 
     // Add Y axis
     const y = d3.scaleLinear()
-    .domain([-85,70])
+    .domain([y_min,y_max])
     .range([ height, 0]);
     //svg.append("g")
     //.call(d3.axisLeft(y));
@@ -99,28 +117,69 @@ d3.csv("tsne_data.csv").then( function(data) {
   }
 })
     .on("mouseover", function(event,d,i) {
-    	console.log(d.label_name);
+    	
     	d3.select(this).attr("r", 5);
     	div.transition()
-    	.duration('50').style("opacity", 1);
-    	let num = d.label_name;
+    	.duration('200').style("opacity", 1);
+    	
+    	let num = d.label_name +'<br>'+  splitTest(d.path);
     	div.html(num)
     	.style("left", (event.pageX + 10) + "px")
     	.style("top", (event.pageY - 15) + "px");
-    	  
-		  var audio = document.getElementById('myaudio');
 
-		  var source = document.getElementById('audioSource');
-		  source.src = d.path;
+    	var audio = document.getElementById('myaudio');
+
+    	var source = document.getElementById('audioSource');
+    	source.src = d.path;
 
 		  audio.load(); //call this to just preload the audio without playing
 		  audio.play(); //call this to play the song right away
-    })                  
+		})                  
     .on("mouseout", function(d) {
     	d3.select(this).attr("r", 2.5);
     	div.transition()
     	.duration('50').style("opacity", 0);
+    })
+    .on("click", function(event,d,i) {
+    	const distances=[];
+    	//get distances
+    	for (const samp of data) {
+    		distances.push(((samp.x-d.x)**2 + (samp.y-d.y)**2));
+    	}
+    	//sorted indices
+    	var result = Array.from(Array(distances.length).keys()).sort((a, b) => distances[a] < distances[b] ? -1 : (distances[b] < distances[a]) | 0);
+    	result=result.slice(1,11);// 10 closest
+
+    	var i=1;
+    	const myNode = document.getElementById("closest");
+
+    	// selected audio
+    	myNode.innerHTML = '';
+    	var sound      = document.createElement('audio');
+		sound.id       = 'audio-player';
+		sound.controls = 'controls';
+		sound.src      = d.path;
+		sound.type     = 'audio/wav';
+		myNode.appendChild(sound)
+    	for (const sample of result) {
+
+    		var p = document.createElement('p');
+    		p.innerHTML = i.toString()+' '+data[sample].label_name +' - '+ splitTest(data[sample].path);
+    		var sound      = document.createElement('audio');
+    		sound.id       = 'audio-player';
+    		sound.controls = 'controls';
+    		sound.src      = data[sample].path;
+    		sound.type     = 'audio/wav';
+
+    		myNode.appendChild(p);
+    		myNode.appendChild(sound);
+    		i=i+1
+    	}
+    	document.getElementById("p_closest").innerHTML = '10 closest to: ' + splitTest(d.path);
+
     });
+
+
 
 
 })
