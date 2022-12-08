@@ -82,7 +82,7 @@ const svg = d3.select("#my_dataviz")
 .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 //Read the data
-d3.csv("tsne_data_bis.csv").then( function(data) {
+d3.csv("tsne_data.csv").then( function(data) {
 
 	var x_max = d3.max(data, function(d) { return +d.x;} );
 	var x_min = d3.min(data, function(d) { return +d.x;} );
